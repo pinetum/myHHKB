@@ -29,12 +29,13 @@
 /*
  * For TMK HHKB alt controller(ATMega32U4)
  *
- * row:     PB0-2
- * col:     PB3-5,6
- * key:     PD7(pull-uped)
- * prev:    PB7
- * power:   PD4(L:off/H:on)
- * row-ext: PC6,7 for HHKB JP(active low)
+ *                              pro micro
+ * row:     PB0-2               x:0 o:1,2
+ * col:     PB3-5,6             o
+ * key:     PD7(pull-uped)      o
+ * prev:    PB7                 x
+ * power:   PD4(L:off/H:on)     o
+ * row-ext: PC6,7 for HHKB JP(active low)  ignore only jp used
  */
 static inline void KEY_ENABLE(void) { (PORTB &= ~(1<<6)); }
 static inline void KEY_UNABLE(void) { (PORTB |=  (1<<6)); }
