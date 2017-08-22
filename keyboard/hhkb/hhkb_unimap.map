@@ -1,0 +1,2602 @@
+Archive member included because of file (symbol)
+
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                              obj_hhkb_unimap/common/mousekey.o (__fixsfsi)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o) (__fixunssfsi)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                              obj_hhkb_unimap/common/mousekey.o (__floatsisf)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o) (__fp_splitA)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o) (__fp_zero)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+                              obj_hhkb_unimap/common/mousekey.o (__mulsf3)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o) (__mulsf3x)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o) (__fp_inf)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o) (__fp_nan)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o) (__fp_pscA)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o) (__fp_pscB)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_round.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o) (__fp_round)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodqi4.o)
+                              obj_hhkb_unimap/protocol/lufa/lufa.o (__udivmodqi4)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+                              obj_hhkb_unimap/common/mousekey.o (__divmodhi4)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o (exit)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+                              obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o (__tablejump2__)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+                              obj_hhkb_unimap/protocol/lufa/lufa.o (__do_copy_data)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+                              obj_hhkb_unimap/matrix.o (__do_clear_bss)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o) (__udivmodhi4)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(eerd_byte_atmega32u4.o)
+                              obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o (__eerd_byte_m32u4)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(eeupd_byte_atmega32u4.o)
+                              obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o (__eeupd_byte_m32u4)
+
+Allocating common symbols
+Common symbol       size              file
+
+USB_IsInitialized   0x1               obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+USB_DeviceState     0x1               obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+USB_Device_ConfigurationNumber
+                    0x1               obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+USB_Device_CurrentlySelfPowered
+                    0x1               obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+USB_ControlRequest  0x8               obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+USB_Device_RemoteWakeupEnabled
+                    0x1               obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/unimap_hhkb.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/unimap_hhkb.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/unimap_hhkb.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/matrix.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/matrix.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/matrix.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/led.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/led.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/led.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/descriptor.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/descriptor.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/descriptor.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Class/Common/HIDParser.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Class/Common/HIDParser.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Class/Common/HIDParser.o
+ .text.USB_ProcessHIDReport
+                0x00000000      0x704 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Class/Common/HIDParser.o
+ .text.USB_GetHIDReportItemInfo
+                0x00000000       0xbc obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Class/Common/HIDParser.o
+ .text.USB_SetHIDReportItemInfo
+                0x00000000       0xec obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Class/Common/HIDParser.o
+ .text.USB_GetHIDReportSize
+                0x00000000       0x60 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Class/Common/HIDParser.o
+ .debug_info    0x00000000      0x73e obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Class/Common/HIDParser.o
+ .debug_abbrev  0x00000000      0x21e obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Class/Common/HIDParser.o
+ .debug_loc     0x00000000      0xab2 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Class/Common/HIDParser.o
+ .debug_aranges
+                0x00000000       0x38 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Class/Common/HIDParser.o
+ .debug_ranges  0x00000000       0xd0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Class/Common/HIDParser.o
+ .debug_line    0x00000000      0x25c obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Class/Common/HIDParser.o
+ .debug_str     0x00000000      0x6c7 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Class/Common/HIDParser.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Class/Common/HIDParser.o
+ .debug_frame   0x00000000      0x134 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Class/Common/HIDParser.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Device_AVR8.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Device_AVR8.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Device_AVR8.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .text.Endpoint_Discard_Stream
+                0x00000000       0x7e obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .text.Endpoint_Null_Stream
+                0x00000000       0x7e obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .text.Endpoint_Write_Stream_BE
+                0x00000000       0xa0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .text.Endpoint_Read_Stream_LE
+                0x00000000       0x92 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .text.Endpoint_Read_Stream_BE
+                0x00000000       0xa0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .text.Endpoint_Write_PStream_LE
+                0x00000000       0x96 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .text.Endpoint_Write_PStream_BE
+                0x00000000       0xa2 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .text.Endpoint_Write_EStream_LE
+                0x00000000       0x98 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .text.Endpoint_Write_EStream_BE
+                0x00000000       0xa4 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .text.Endpoint_Read_EStream_LE
+                0x00000000       0x98 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .text.Endpoint_Read_EStream_BE
+                0x00000000       0xa4 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .text.Endpoint_Write_Control_Stream_BE
+                0x00000000       0xce obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .text.Endpoint_Read_Control_Stream_LE
+                0x00000000       0x80 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .text.Endpoint_Read_Control_Stream_BE
+                0x00000000       0x84 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .text.Endpoint_Write_Control_PStream_BE
+                0x00000000       0xce obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .text.Endpoint_Write_Control_EStream_LE
+                0x00000000       0xee obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .text.Endpoint_Write_Control_EStream_BE
+                0x00000000       0xf8 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .text.Endpoint_Read_Control_EStream_LE
+                0x00000000       0x98 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .text.Endpoint_Read_Control_EStream_BE
+                0x00000000       0x96 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+ .text.Endpoint_ConfigureEndpointTable
+                0x00000000       0x7c obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+ .text.Endpoint_ClearEndpoints
+                0x00000000       0x28 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Host_AVR8.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Host_AVR8.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Host_AVR8.o
+ .debug_info    0x00000000       0x56 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Host_AVR8.o
+ .debug_abbrev  0x00000000       0x26 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Host_AVR8.o
+ .debug_aranges
+                0x00000000       0x18 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Host_AVR8.o
+ .debug_line    0x00000000       0x1a obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Host_AVR8.o
+ .debug_str     0x00000000      0x1a2 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Host_AVR8.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Host_AVR8.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/PipeStream_AVR8.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/PipeStream_AVR8.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/PipeStream_AVR8.o
+ .debug_info    0x00000000       0x56 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/PipeStream_AVR8.o
+ .debug_abbrev  0x00000000       0x26 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/PipeStream_AVR8.o
+ .debug_aranges
+                0x00000000       0x18 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/PipeStream_AVR8.o
+ .debug_line    0x00000000       0x1a obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/PipeStream_AVR8.o
+ .debug_str     0x00000000      0x1a8 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/PipeStream_AVR8.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/PipeStream_AVR8.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Pipe_AVR8.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Pipe_AVR8.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Pipe_AVR8.o
+ .debug_info    0x00000000       0x56 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Pipe_AVR8.o
+ .debug_abbrev  0x00000000       0x26 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Pipe_AVR8.o
+ .debug_aranges
+                0x00000000       0x18 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Pipe_AVR8.o
+ .debug_line    0x00000000       0x1a obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Pipe_AVR8.o
+ .debug_str     0x00000000      0x1a2 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Pipe_AVR8.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Pipe_AVR8.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/ConfigDescriptors.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/ConfigDescriptors.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/ConfigDescriptors.o
+ .text.USB_GetNextDescriptor
+                0x00000000       0x38 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/ConfigDescriptors.o
+ .text.USB_GetNextDescriptorOfType
+                0x00000000       0x48 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/ConfigDescriptors.o
+ .text.USB_GetNextDescriptorOfTypeBefore
+                0x00000000       0x58 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/ConfigDescriptors.o
+ .text.USB_GetNextDescriptorOfTypeAfter
+                0x00000000       0x3e obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/ConfigDescriptors.o
+ .text.USB_GetNextDescriptorComp
+                0x00000000       0x66 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/ConfigDescriptors.o
+ .debug_info    0x00000000      0x3cd obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/ConfigDescriptors.o
+ .debug_abbrev  0x00000000      0x183 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/ConfigDescriptors.o
+ .debug_loc     0x00000000      0x5bd obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/ConfigDescriptors.o
+ .debug_aranges
+                0x00000000       0x40 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/ConfigDescriptors.o
+ .debug_ranges  0x00000000       0x30 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/ConfigDescriptors.o
+ .debug_line    0x00000000      0x198 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/ConfigDescriptors.o
+ .debug_str     0x00000000      0x3eb obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/ConfigDescriptors.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/ConfigDescriptors.o
+ .debug_frame   0x00000000      0x124 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/ConfigDescriptors.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/Events.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/Events.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/Events.o
+ .text.USB_Event_Stub
+                0x00000000        0x2 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/Events.o
+ .debug_info    0x00000000       0x78 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/Events.o
+ .debug_abbrev  0x00000000       0x44 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/Events.o
+ .debug_aranges
+                0x00000000       0x20 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/Events.o
+ .debug_ranges  0x00000000       0x10 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/Events.o
+ .debug_line    0x00000000       0x71 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/Events.o
+ .debug_str     0x00000000      0x1a9 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/Events.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/Events.o
+ .debug_frame   0x00000000       0x24 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/Events.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/HostStandardReq.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/HostStandardReq.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/HostStandardReq.o
+ .debug_info    0x00000000       0x56 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/HostStandardReq.o
+ .debug_abbrev  0x00000000       0x26 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/HostStandardReq.o
+ .debug_aranges
+                0x00000000       0x18 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/HostStandardReq.o
+ .debug_line    0x00000000       0x1a obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/HostStandardReq.o
+ .debug_str     0x00000000      0x1a3 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/HostStandardReq.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/HostStandardReq.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+ .text.USB_USBTask
+                0x00000000       0x3a obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/common/host.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/common/host.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/common/host.o
+ .text.host_get_driver
+                0x00000000        0xa obj_hhkb_unimap/common/host.o
+ .text.host_last_system_report
+                0x00000000        0xa obj_hhkb_unimap/common/host.o
+ .text.host_last_consumer_report
+                0x00000000        0xa obj_hhkb_unimap/common/host.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/common/keyboard.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/common/keyboard.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/common/keyboard.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/common/matrix.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/common/matrix.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/common/matrix.o
+ .text.matrix_rows
+                0x00000000        0x4 obj_hhkb_unimap/common/matrix.o
+ .text.matrix_cols
+                0x00000000        0x4 obj_hhkb_unimap/common/matrix.o
+ .text.matrix_is_on
+                0x00000000       0x38 obj_hhkb_unimap/common/matrix.o
+ .text.matrix_power_up
+                0x00000000        0x2 obj_hhkb_unimap/common/matrix.o
+ .text.matrix_power_down
+                0x00000000        0x2 obj_hhkb_unimap/common/matrix.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/common/action.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/common/action.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/common/action.o
+ .text.debug_action
+                0x00000000        0x2 obj_hhkb_unimap/common/action.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/common/action_tapping.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/common/action_tapping.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/common/action_tapping.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/common/action_macro.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/common/action_macro.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/common/action_macro.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/common/action_layer.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/common/action_layer.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/common/action_layer.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/common/action_util.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/common/action_util.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/common/action_util.o
+ .text.get_weak_mods
+                0x00000000        0x6 obj_hhkb_unimap/common/action_util.o
+ .text.set_weak_mods
+                0x00000000        0x6 obj_hhkb_unimap/common/action_util.o
+ .text.has_anymod
+                0x00000000        0x8 obj_hhkb_unimap/common/action_util.o
+ .text.get_first_key
+                0x00000000       0x5e obj_hhkb_unimap/common/action_util.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/common/print.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/common/print.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/common/print.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/common/debug.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/common/debug.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/common/debug.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/common/util.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/common/util.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/common/util.o
+ .text.bitpop   0x00000000       0x14 obj_hhkb_unimap/common/util.o
+ .text.bitpop16
+                0x00000000       0x18 obj_hhkb_unimap/common/util.o
+ .text.bitpop32
+                0x00000000       0x30 obj_hhkb_unimap/common/util.o
+ .text.biton    0x00000000       0x24 obj_hhkb_unimap/common/util.o
+ .text.biton16  0x00000000       0x48 obj_hhkb_unimap/common/util.o
+ .text.biton32  0x00000000       0xa6 obj_hhkb_unimap/common/util.o
+ .text.bitrev16
+                0x00000000       0x34 obj_hhkb_unimap/common/util.o
+ .text.bitrev32
+                0x00000000       0x44 obj_hhkb_unimap/common/util.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/common/hook.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/common/hook.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/common/hook.o
+ .text.hook_bootmagic
+                0x00000000        0x2 obj_hhkb_unimap/common/hook.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/common/avr/suspend.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/common/avr/suspend.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/common/avr/suspend.o
+ .text.suspend_idle
+                0x00000000       0x18 obj_hhkb_unimap/common/avr/suspend.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/common/avr/xprintf.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/common/avr/timer.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/common/avr/timer.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/common/avr/timer.o
+ .text.timer_clear
+                0x00000000       0x18 obj_hhkb_unimap/common/avr/timer.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/common/avr/bootloader.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/common/avr/bootloader.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/common/avr/bootloader.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/common/unimap.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/common/unimap.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/common/unimap.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/common/mousekey.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/common/mousekey.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/common/mousekey.o
+ .text          0x00000000        0x0 obj_hhkb_unimap/common/command.o
+ .data          0x00000000        0x0 obj_hhkb_unimap/common/command.o
+ .bss           0x00000000        0x0 obj_hhkb_unimap/common/command.o
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .data          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .data          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .data          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .data          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .data          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .data          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .data          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_round.o)
+ .data          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_round.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_round.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodqi4.o)
+ .data          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodqi4.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodqi4.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .data          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .data          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(eerd_byte_atmega32u4.o)
+ .data          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(eerd_byte_atmega32u4.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(eerd_byte_atmega32u4.o)
+ .text.avr-libc
+                0x00000000       0x10 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(eerd_byte_atmega32u4.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(eeupd_byte_atmega32u4.o)
+ .data          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(eeupd_byte_atmega32u4.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(eeupd_byte_atmega32u4.o)
+ .text.avr-libc
+                0x00000000       0x24 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(eeupd_byte_atmega32u4.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+keymap           0x00006800         0x00000800         rw !x
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+LOAD obj_hhkb_unimap/unimap_hhkb.o
+LOAD obj_hhkb_unimap/matrix.o
+LOAD obj_hhkb_unimap/led.o
+LOAD obj_hhkb_unimap/protocol/lufa/lufa.o
+LOAD obj_hhkb_unimap/protocol/lufa/descriptor.o
+LOAD obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Class/Common/HIDParser.o
+LOAD obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Device_AVR8.o
+LOAD obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+LOAD obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+LOAD obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Host_AVR8.o
+LOAD obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/PipeStream_AVR8.o
+LOAD obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Pipe_AVR8.o
+LOAD obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+LOAD obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+LOAD obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/ConfigDescriptors.o
+LOAD obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+LOAD obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/Events.o
+LOAD obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/HostStandardReq.o
+LOAD obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+LOAD obj_hhkb_unimap/common/host.o
+LOAD obj_hhkb_unimap/common/keyboard.o
+LOAD obj_hhkb_unimap/common/matrix.o
+LOAD obj_hhkb_unimap/common/action.o
+LOAD obj_hhkb_unimap/common/action_tapping.o
+LOAD obj_hhkb_unimap/common/action_macro.o
+LOAD obj_hhkb_unimap/common/action_layer.o
+LOAD obj_hhkb_unimap/common/action_util.o
+LOAD obj_hhkb_unimap/common/print.o
+LOAD obj_hhkb_unimap/common/debug.o
+LOAD obj_hhkb_unimap/common/util.o
+LOAD obj_hhkb_unimap/common/hook.o
+LOAD obj_hhkb_unimap/common/avr/suspend.o
+LOAD obj_hhkb_unimap/common/avr/xprintf.o
+LOAD obj_hhkb_unimap/common/avr/timer.o
+LOAD obj_hhkb_unimap/common/avr/bootloader.o
+LOAD obj_hhkb_unimap/common/unimap.o
+LOAD obj_hhkb_unimap/common/mousekey.o
+LOAD obj_hhkb_unimap/common/command.o
+LOAD /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x496e
+ *(.vectors)
+ .vectors       0x00000000       0xac /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.USB_Device_ProcessControlRequest
+                0x000000ac       0x14 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+ .progmem.gcc_sw_table.process_action
+                0x000000c0       0x20 obj_hhkb_unimap/common/action.o
+ *(.progmem*)
+ .progmem.data.unimap_trans
+                0x000000e0       0x40 obj_hhkb_unimap/unimap_hhkb.o
+                0x000000e0                unimap_trans
+ .progmem.data.__c.4790
+                0x00000120       0x11 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .progmem.data.__c.4788
+                0x00000131       0x11 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .progmem.data.__c.4783
+                0x00000142        0x8 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .progmem.data.__c.4677
+                0x0000014a        0x4 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .progmem.data.__c.4672
+                0x0000014e        0x4 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .progmem.data.ProductString
+                0x00000152       0x14 obj_hhkb_unimap/protocol/lufa/descriptor.o
+                0x00000152                ProductString
+ .progmem.data.ManufacturerString
+                0x00000166       0x10 obj_hhkb_unimap/protocol/lufa/descriptor.o
+                0x00000166                ManufacturerString
+ .progmem.data.LanguageString
+                0x00000176        0x4 obj_hhkb_unimap/protocol/lufa/descriptor.o
+                0x00000176                LanguageString
+ .progmem.data.ConfigurationDescriptor
+                0x0000017a       0x8d obj_hhkb_unimap/protocol/lufa/descriptor.o
+                0x0000017a                ConfigurationDescriptor
+ .progmem.data.DeviceDescriptor
+                0x00000207       0x12 obj_hhkb_unimap/protocol/lufa/descriptor.o
+                0x00000207                DeviceDescriptor
+ .progmem.data.NKROReport
+                0x00000219       0x39 obj_hhkb_unimap/protocol/lufa/descriptor.o
+                0x00000219                NKROReport
+ .progmem.data.ConsoleReport
+                0x00000252       0x22 obj_hhkb_unimap/protocol/lufa/descriptor.o
+                0x00000252                ConsoleReport
+ .progmem.data.ExtrakeyReport
+                0x00000274       0x36 obj_hhkb_unimap/protocol/lufa/descriptor.o
+                0x00000274                ExtrakeyReport
+ .progmem.data.MouseReport
+                0x000002aa       0x4d obj_hhkb_unimap/protocol/lufa/descriptor.o
+                0x000002aa                MouseReport
+ .progmem.data.KeyboardReport
+                0x000002f7       0x40 obj_hhkb_unimap/protocol/lufa/descriptor.o
+                0x000002f7                KeyboardReport
+ .progmem.data.__c.4409
+                0x00000337       0x10 obj_hhkb_unimap/common/host.o
+ .progmem.data.__c.4404
+                0x00000347        0xe obj_hhkb_unimap/common/host.o
+ .progmem.data.__c.4396
+                0x00000355        0x2 obj_hhkb_unimap/common/host.o
+ .progmem.data.__c.4391
+                0x00000357        0x6 obj_hhkb_unimap/common/host.o
+ .progmem.data.__c.4388
+                0x0000035d        0xb obj_hhkb_unimap/common/host.o
+ .progmem.data.__c.4736
+                0x00000368        0xb obj_hhkb_unimap/common/keyboard.o
+ .progmem.data.__c.1714
+                0x00000373        0xe obj_hhkb_unimap/common/matrix.o
+ .progmem.data.__c.1711
+                0x00000381        0xe obj_hhkb_unimap/common/matrix.o
+ .progmem.data.__c.4539
+                0x0000038f       0x1e obj_hhkb_unimap/common/action_util.o
+ .progmem.data.__c.4534
+                0x000003ad       0x1e obj_hhkb_unimap/common/action_util.o
+ .progmem.data.__c.4447
+                0x000003cb       0x12 obj_hhkb_unimap/common/action_util.o
+ .progmem.data.__c.4468
+                0x000003dd        0x3 obj_hhkb_unimap/common/mousekey.o
+ .progmem.data.__c.4466
+                0x000003e0        0x3 obj_hhkb_unimap/common/mousekey.o
+ .progmem.data.__c.4464
+                0x000003e3        0x2 obj_hhkb_unimap/common/mousekey.o
+ .progmem.data.__c.4462
+                0x000003e5        0x3 obj_hhkb_unimap/common/mousekey.o
+ .progmem.data.__c.4460
+                0x000003e8        0x3 obj_hhkb_unimap/common/mousekey.o
+ .progmem.data.__c.4458
+                0x000003eb        0x3 obj_hhkb_unimap/common/mousekey.o
+ .progmem.data.__c.4456
+                0x000003ee        0x2 obj_hhkb_unimap/common/mousekey.o
+ .progmem.data.__c.4454
+                0x000003f0        0x3 obj_hhkb_unimap/common/mousekey.o
+ .progmem.data.__c.4452
+                0x000003f3        0x2 obj_hhkb_unimap/common/mousekey.o
+ .progmem.data.__c.4450
+                0x000003f5        0x3 obj_hhkb_unimap/common/mousekey.o
+ .progmem.data.__c.4448
+                0x000003f8        0x2 obj_hhkb_unimap/common/mousekey.o
+ .progmem.data.__c.4446
+                0x000003fa        0x3 obj_hhkb_unimap/common/mousekey.o
+ .progmem.data.__c.4444
+                0x000003fd        0x2 obj_hhkb_unimap/common/mousekey.o
+ .progmem.data.__c.4442
+                0x000003ff        0x5 obj_hhkb_unimap/common/mousekey.o
+ .progmem.data.__c.4440
+                0x00000404       0x23 obj_hhkb_unimap/common/mousekey.o
+ .progmem.data.__c.4963
+                0x00000427       0x1b obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4960
+                0x00000442       0x19 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4957
+                0x0000045b       0x15 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4954
+                0x00000470       0x13 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4951
+                0x00000483       0x12 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4947
+                0x00000495        0xf obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4940
+                0x000004a4       0x1b obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4937
+                0x000004bf       0x19 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4934
+                0x000004d8       0x15 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4931
+                0x000004ed       0x13 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4928
+                0x00000500       0x12 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4924
+                0x00000512        0xf obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4917
+                0x00000521        0x2 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4915
+                0x00000523        0x3 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4913
+                0x00000526       0x17 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4911
+                0x0000053d        0x2 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4909
+                0x0000053f        0x3 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4907
+                0x00000542       0x15 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4905
+                0x00000557        0x2 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4903
+                0x00000559        0x3 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4901
+                0x0000055c       0x11 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4899
+                0x0000056d        0x2 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4897
+                0x0000056f        0x3 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4895
+                0x00000572        0xf obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4893
+                0x00000581        0x2 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4891
+                0x00000583        0x3 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4889
+                0x00000586       0x12 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4887
+                0x00000598        0x2 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4885
+                0x0000059a        0x3 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4883
+                0x0000059d       0x12 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4881
+                0x000005af        0xe obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.5001
+                0x000005bd        0x3 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4999
+                0x000005c0        0x6 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4997
+                0x000005c6        0x2 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4994
+                0x000005c8        0xd obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4980
+                0x000005d5        0x4 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4970
+                0x000005d9       0x4e obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4968
+                0x00000627       0xfb obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4873
+                0x00000722        0x2 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4870
+                0x00000724        0x4 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4875
+                0x00000728        0x4 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.5019
+                0x0000072c        0x5 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4859
+                0x00000731       0x27 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4782
+                0x00000758       0x9b obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4854
+                0x000007f3        0x2 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4845
+                0x000007f5        0xb obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4843
+                0x00000800        0xa obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4840
+                0x0000080a       0x17 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4838
+                0x00000821       0x13 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4836
+                0x00000834       0x13 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4834
+                0x00000847       0x17 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4832
+                0x0000085e       0x1a obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4830
+                0x00000878        0xe obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4827
+                0x00000886       0x2e obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4825
+                0x000008b4       0x4a obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4823
+                0x000008fe       0x27 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4821
+                0x00000925       0x37 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4819
+                0x0000095c       0x2d obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4817
+                0x00000989        0xf obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4814
+                0x00000998        0xd obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4812
+                0x000009a5        0xc obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4809
+                0x000009b1       0x10 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4807
+                0x000009c1        0xf obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4804
+                0x000009d0        0xe obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4802
+                0x000009de        0xd obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4799
+                0x000009eb        0xc obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4797
+                0x000009f7        0xd obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4794
+                0x00000a04       0x11 obj_hhkb_unimap/common/command.o
+ .progmem.data.__c.4791
+                0x00000a15        0x4 obj_hhkb_unimap/common/command.o
+                0x00000a1a                . = ALIGN (0x2)
+ *fill*         0x00000a19        0x1 
+                0x00000a1a                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000a1a        0x0 linker stubs
+ *(.trampolines*)
+                0x00000a1a                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000a1a                __ctors_start = .
+ *(.ctors)
+                0x00000a1a                __ctors_end = .
+                0x00000a1a                __dtors_start = .
+ *(.dtors)
+                0x00000a1a                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000a1a        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+                0x00000a1a                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000a1a        0xc /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+ *(.init2)
+ *(.init3)
+ .init3         0x00000a26       0x4e obj_hhkb_unimap/common/avr/bootloader.o
+                0x00000a26                bootloader_jump_after_watchdog_reset
+ *(.init3)
+ *(.init4)
+ .init4         0x00000a74       0x16 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+                0x00000a74                __do_copy_data
+ .init4         0x00000a8a       0x10 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+                0x00000a8a                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000a9a        0x8 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+ *(.init9)
+ *(.text)
+ .text          0x00000aa2        0x4 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+                0x00000aa2                __vector_42
+                0x00000aa2                __vector_22
+                0x00000aa2                __vector_28
+                0x00000aa2                __vector_1
+                0x00000aa2                __vector_32
+                0x00000aa2                __vector_34
+                0x00000aa2                __vector_24
+                0x00000aa2                __bad_interrupt
+                0x00000aa2                __vector_6
+                0x00000aa2                __vector_31
+                0x00000aa2                __vector_35
+                0x00000aa2                __vector_39
+                0x00000aa2                __vector_3
+                0x00000aa2                __vector_23
+                0x00000aa2                __vector_30
+                0x00000aa2                __vector_25
+                0x00000aa2                __vector_13
+                0x00000aa2                __vector_17
+                0x00000aa2                __vector_19
+                0x00000aa2                __vector_7
+                0x00000aa2                __vector_41
+                0x00000aa2                __vector_27
+                0x00000aa2                __vector_5
+                0x00000aa2                __vector_33
+                0x00000aa2                __vector_37
+                0x00000aa2                __vector_4
+                0x00000aa2                __vector_9
+                0x00000aa2                __vector_2
+                0x00000aa2                __vector_15
+                0x00000aa2                __vector_36
+                0x00000aa2                __vector_29
+                0x00000aa2                __vector_40
+                0x00000aa2                __vector_8
+                0x00000aa2                __vector_26
+                0x00000aa2                __vector_14
+                0x00000aa2                __vector_16
+                0x00000aa2                __vector_18
+                0x00000aa2                __vector_20
+                0x00000aa2                __vector_38
+ .text          0x00000aa6      0x15c obj_hhkb_unimap/common/avr/xprintf.o
+                0x00000aa6                xputc
+                0x00000abe                xputs
+                0x00000acc                xitoa
+                0x00000bf0                __xprintf
+                0x00000c02                . = ALIGN (0x2)
+ *(.text.*)
+ .text.matrix_init
+                0x00000c02       0x52 obj_hhkb_unimap/matrix.o
+                0x00000c02                matrix_init
+ .text.matrix_scan
+                0x00000c54      0x19c obj_hhkb_unimap/matrix.o
+                0x00000c54                matrix_scan
+ .text.matrix_get_row
+                0x00000df0       0x10 obj_hhkb_unimap/matrix.o
+                0x00000df0                matrix_get_row
+ .text.matrix_power_up
+                0x00000e00        0x2 obj_hhkb_unimap/matrix.o
+                0x00000e00                matrix_power_up
+ .text.matrix_power_down
+                0x00000e02        0x2 obj_hhkb_unimap/matrix.o
+                0x00000e02                matrix_power_down
+ .text.led_set  0x00000e04        0xe obj_hhkb_unimap/led.o
+                0x00000e04                led_set
+ .text.keyboard_leds
+                0x00000e12        0x6 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .text.sendchar
+                0x00000e18       0xc8 obj_hhkb_unimap/protocol/lufa/lufa.o
+                0x00000e18                sendchar
+ .text.send_consumer
+                0x00000ee0       0x66 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .text.send_system
+                0x00000f46       0x68 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .text.send_mouse
+                0x00000fae       0x46 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .text.send_keyboard
+                0x00000ff4       0xa4 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .text.EVENT_USB_Device_Connect
+                0x00001098       0x24 obj_hhkb_unimap/protocol/lufa/lufa.o
+                0x00001098                EVENT_USB_Device_Connect
+ .text.EVENT_USB_Device_Disconnect
+                0x000010bc        0xe obj_hhkb_unimap/protocol/lufa/lufa.o
+                0x000010bc                EVENT_USB_Device_Disconnect
+ .text.EVENT_USB_Device_Reset
+                0x000010ca        0x2 obj_hhkb_unimap/protocol/lufa/lufa.o
+                0x000010ca                EVENT_USB_Device_Reset
+ .text.EVENT_USB_Device_StartOfFrame
+                0x000010cc       0x80 obj_hhkb_unimap/protocol/lufa/lufa.o
+                0x000010cc                EVENT_USB_Device_StartOfFrame
+ .text.EVENT_USB_Device_ConfigurationChanged
+                0x0000114c       0x32 obj_hhkb_unimap/protocol/lufa/lufa.o
+                0x0000114c                EVENT_USB_Device_ConfigurationChanged
+ .text.EVENT_USB_Device_ControlRequest
+                0x0000117e      0x164 obj_hhkb_unimap/protocol/lufa/lufa.o
+                0x0000117e                EVENT_USB_Device_ControlRequest
+ .text.hook_early_init
+                0x000012e2        0x2 obj_hhkb_unimap/protocol/lufa/lufa.o
+                0x000012e2                hook_early_init
+ .text.hook_late_init
+                0x000012e4        0x2 obj_hhkb_unimap/protocol/lufa/lufa.o
+                0x000012e4                hook_late_init
+ .text.hook_usb_suspend_entry
+                0x000012e6       0x1a obj_hhkb_unimap/protocol/lufa/lufa.o
+                0x000012e6                hook_usb_suspend_entry
+ .text.EVENT_USB_Device_Suspend
+                0x00001300        0x4 obj_hhkb_unimap/protocol/lufa/lufa.o
+                0x00001300                EVENT_USB_Device_Suspend
+ .text.hook_usb_suspend_loop
+                0x00001304       0x18 obj_hhkb_unimap/protocol/lufa/lufa.o
+                0x00001304                hook_usb_suspend_loop
+ .text.startup.main
+                0x0000131c       0x90 obj_hhkb_unimap/protocol/lufa/lufa.o
+                0x0000131c                main
+ .text.hook_usb_wakeup
+                0x000013ac        0xe obj_hhkb_unimap/protocol/lufa/lufa.o
+                0x000013ac                hook_usb_wakeup
+ .text.EVENT_USB_Device_WakeUp
+                0x000013ba        0x4 obj_hhkb_unimap/protocol/lufa/lufa.o
+                0x000013ba                EVENT_USB_Device_WakeUp
+ .text.CALLBACK_USB_GetDescriptor
+                0x000013be       0xb2 obj_hhkb_unimap/protocol/lufa/descriptor.o
+                0x000013be                CALLBACK_USB_GetDescriptor
+ .text.USB_Device_SendRemoteWakeup
+                0x00001470       0x2c obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Device_AVR8.o
+                0x00001470                USB_Device_SendRemoteWakeup
+ .text.Endpoint_Write_Stream_LE
+                0x0000149c       0x92 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+                0x0000149c                Endpoint_Write_Stream_LE
+ .text.Endpoint_Write_Control_Stream_LE
+                0x0000152e       0xc2 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+                0x0000152e                Endpoint_Write_Control_Stream_LE
+ .text.Endpoint_Write_Control_PStream_LE
+                0x000015f0       0xc4 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+                0x000015f0                Endpoint_Write_Control_PStream_LE
+ .text.Endpoint_ConfigureEndpoint_Prv
+                0x000016b4       0x6a obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+                0x000016b4                Endpoint_ConfigureEndpoint_Prv
+ .text.Endpoint_ClearStatusStage
+                0x0000171e       0x42 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+                0x0000171e                Endpoint_ClearStatusStage
+ .text.Endpoint_WaitUntilReady
+                0x00001760       0x60 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+                0x00001760                Endpoint_WaitUntilReady
+ .text.USB_Disable
+                0x000017c0       0x34 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+                0x000017c0                USB_Disable
+ .text.USB_ResetInterface
+                0x000017f4       0x86 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+                0x000017f4                USB_ResetInterface
+ .text.USB_Init
+                0x0000187a       0x22 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+                0x0000187a                USB_Init
+ .text.USB_INT_DisableAllInterrupts
+                0x0000189c       0x10 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+                0x0000189c                USB_INT_DisableAllInterrupts
+ .text.USB_INT_ClearAllInterrupts
+                0x000018ac        0xa obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+                0x000018ac                USB_INT_ClearAllInterrupts
+ .text.__vector_10
+                0x000018b6      0x1a4 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+                0x000018b6                __vector_10
+ .text.__vector_11
+                0x00001a5a       0x78 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+                0x00001a5a                __vector_11
+ .text.USB_Device_ProcessControlRequest
+                0x00001ad2      0x29c obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+                0x00001ad2                USB_Device_ProcessControlRequest
+ .text.host_set_driver
+                0x00001d6e        0xa obj_hhkb_unimap/common/host.o
+                0x00001d6e                host_set_driver
+ .text.host_keyboard_leds
+                0x00001d78       0x18 obj_hhkb_unimap/common/host.o
+                0x00001d78                host_keyboard_leds
+ .text.host_keyboard_send
+                0x00001d90       0x8a obj_hhkb_unimap/common/host.o
+                0x00001d90                host_keyboard_send
+ .text.host_mouse_send
+                0x00001e1a       0x16 obj_hhkb_unimap/common/host.o
+                0x00001e1a                host_mouse_send
+ .text.host_system_send
+                0x00001e30       0x5c obj_hhkb_unimap/common/host.o
+                0x00001e30                host_system_send
+ .text.host_consumer_send
+                0x00001e8c       0x5c obj_hhkb_unimap/common/host.o
+                0x00001e8c                host_consumer_send
+ .text.keyboard_setup
+                0x00001ee8        0x4 obj_hhkb_unimap/common/keyboard.o
+                0x00001ee8                keyboard_setup
+ .text.keyboard_init
+                0x00001eec        0x8 obj_hhkb_unimap/common/keyboard.o
+                0x00001eec                keyboard_init
+ .text.keyboard_task
+                0x00001ef4      0x17a obj_hhkb_unimap/common/keyboard.o
+                0x00001ef4                keyboard_task
+ .text.keyboard_set_leds
+                0x0000206e        0x4 obj_hhkb_unimap/common/keyboard.o
+                0x0000206e                keyboard_set_leds
+ .text.matrix_clear
+                0x00002072        0x2 obj_hhkb_unimap/common/matrix.o
+                0x00002072                matrix_clear
+ .text.matrix_setup
+                0x00002074        0x2 obj_hhkb_unimap/common/matrix.o
+                0x00002074                matrix_setup
+ .text.matrix_print
+                0x00002076       0x68 obj_hhkb_unimap/common/matrix.o
+                0x00002076                matrix_print
+ .text.action_exec
+                0x000020de       0x84 obj_hhkb_unimap/common/action.o
+                0x000020de                action_exec
+ .text.register_code
+                0x00002162      0x154 obj_hhkb_unimap/common/action.o
+                0x00002162                register_code
+ .text.unregister_code
+                0x000022b6       0x50 obj_hhkb_unimap/common/action.o
+                0x000022b6                unregister_code
+ .text.register_mods
+                0x00002306        0xe obj_hhkb_unimap/common/action.o
+                0x00002306                register_mods
+ .text.unregister_mods
+                0x00002314        0xe obj_hhkb_unimap/common/action.o
+                0x00002314                unregister_mods
+ .text.process_action
+                0x00002322      0x61a obj_hhkb_unimap/common/action.o
+                0x00002322                process_action
+ .text.clear_keyboard_but_mods
+                0x0000293c       0x24 obj_hhkb_unimap/common/action.o
+                0x0000293c                clear_keyboard_but_mods
+ .text.clear_keyboard
+                0x00002960        0x8 obj_hhkb_unimap/common/action.o
+                0x00002960                clear_keyboard
+ .text.is_tap_key
+                0x00002968       0x4a obj_hhkb_unimap/common/action.o
+                0x00002968                is_tap_key
+ .text.debug_event
+                0x000029b2       0x1e obj_hhkb_unimap/common/action.o
+                0x000029b2                debug_event
+ .text.debug_record
+                0x000029d0       0x20 obj_hhkb_unimap/common/action.o
+                0x000029d0                debug_record
+ .text.debug_waiting_buffer
+                0x000029f0       0x42 obj_hhkb_unimap/common/action_tapping.o
+ .text.debug_tapping_key
+                0x00002a32       0x1c obj_hhkb_unimap/common/action_tapping.o
+ .text.waiting_buffer_scan_tap
+                0x00002a4e       0xd0 obj_hhkb_unimap/common/action_tapping.o
+ .text.process_tapping
+                0x00002b1e      0x3da obj_hhkb_unimap/common/action_tapping.o
+ .text.action_tapping_process
+                0x00002ef8      0x15a obj_hhkb_unimap/common/action_tapping.o
+                0x00002ef8                action_tapping_process
+ .text.action_macro_play
+                0x00003052      0x13a obj_hhkb_unimap/common/action_macro.o
+                0x00003052                action_macro_play
+ .text.default_layer_state_set
+                0x0000318c       0x18 obj_hhkb_unimap/common/action_layer.o
+ .text.layer_state_set
+                0x000031a4       0x18 obj_hhkb_unimap/common/action_layer.o
+ .text.default_layer_debug
+                0x000031bc        0x2 obj_hhkb_unimap/common/action_layer.o
+                0x000031bc                default_layer_debug
+ .text.default_layer_set
+                0x000031be        0x4 obj_hhkb_unimap/common/action_layer.o
+                0x000031be                default_layer_set
+ .text.default_layer_or
+                0x000031c2       0x24 obj_hhkb_unimap/common/action_layer.o
+                0x000031c2                default_layer_or
+ .text.default_layer_and
+                0x000031e6       0x24 obj_hhkb_unimap/common/action_layer.o
+                0x000031e6                default_layer_and
+ .text.default_layer_xor
+                0x0000320a       0x24 obj_hhkb_unimap/common/action_layer.o
+                0x0000320a                default_layer_xor
+ .text.layer_clear
+                0x0000322e        0xa obj_hhkb_unimap/common/action_layer.o
+                0x0000322e                layer_clear
+ .text.layer_move
+                0x00003238       0x1e obj_hhkb_unimap/common/action_layer.o
+                0x00003238                layer_move
+ .text.layer_on
+                0x00003256       0x36 obj_hhkb_unimap/common/action_layer.o
+                0x00003256                layer_on
+ .text.layer_off
+                0x0000328c       0x3e obj_hhkb_unimap/common/action_layer.o
+                0x0000328c                layer_off
+ .text.layer_invert
+                0x000032ca       0x36 obj_hhkb_unimap/common/action_layer.o
+                0x000032ca                layer_invert
+ .text.layer_or
+                0x00003300       0x24 obj_hhkb_unimap/common/action_layer.o
+                0x00003300                layer_or
+ .text.layer_and
+                0x00003324       0x24 obj_hhkb_unimap/common/action_layer.o
+                0x00003324                layer_and
+ .text.layer_xor
+                0x00003348       0x24 obj_hhkb_unimap/common/action_layer.o
+                0x00003348                layer_xor
+ .text.layer_debug
+                0x0000336c        0x2 obj_hhkb_unimap/common/action_layer.o
+                0x0000336c                layer_debug
+ .text.layer_switch_get_action
+                0x0000336e       0x84 obj_hhkb_unimap/common/action_layer.o
+                0x0000336e                layer_switch_get_action
+ .text.add_key  0x000033f2       0xa2 obj_hhkb_unimap/common/action_util.o
+                0x000033f2                add_key
+ .text.del_key  0x00003494       0x88 obj_hhkb_unimap/common/action_util.o
+                0x00003494                del_key
+ .text.clear_keys
+                0x0000351c       0x1c obj_hhkb_unimap/common/action_util.o
+                0x0000351c                clear_keys
+ .text.get_mods
+                0x00003538        0x6 obj_hhkb_unimap/common/action_util.o
+                0x00003538                get_mods
+ .text.add_mods
+                0x0000353e        0xc obj_hhkb_unimap/common/action_util.o
+                0x0000353e                add_mods
+ .text.del_mods
+                0x0000354a        0xe obj_hhkb_unimap/common/action_util.o
+                0x0000354a                del_mods
+ .text.set_mods
+                0x00003558        0x6 obj_hhkb_unimap/common/action_util.o
+                0x00003558                set_mods
+ .text.clear_mods
+                0x0000355e        0x6 obj_hhkb_unimap/common/action_util.o
+                0x0000355e                clear_mods
+ .text.add_weak_mods
+                0x00003564        0xc obj_hhkb_unimap/common/action_util.o
+                0x00003564                add_weak_mods
+ .text.del_weak_mods
+                0x00003570        0xe obj_hhkb_unimap/common/action_util.o
+                0x00003570                del_weak_mods
+ .text.clear_weak_mods
+                0x0000357e        0x6 obj_hhkb_unimap/common/action_util.o
+                0x0000357e                clear_weak_mods
+ .text.set_oneshot_mods
+                0x00003584       0x12 obj_hhkb_unimap/common/action_util.o
+                0x00003584                set_oneshot_mods
+ .text.clear_oneshot_mods
+                0x00003596        0xe obj_hhkb_unimap/common/action_util.o
+                0x00003596                clear_oneshot_mods
+ .text.has_anykey
+                0x000035a4       0x26 obj_hhkb_unimap/common/action_util.o
+                0x000035a4                has_anykey
+ .text.send_keyboard_report
+                0x000035ca       0xb2 obj_hhkb_unimap/common/action_util.o
+                0x000035ca                send_keyboard_report
+ .text.print_set_sendchar
+                0x0000367c        0xa obj_hhkb_unimap/common/print.o
+                0x0000367c                print_set_sendchar
+ .text.bitrev   0x00003686       0x24 obj_hhkb_unimap/common/util.o
+                0x00003686                bitrev
+ .text.hook_keyboard_loop
+                0x000036aa        0x2 obj_hhkb_unimap/common/hook.o
+                0x000036aa                hook_keyboard_loop
+ .text.hook_matrix_change
+                0x000036ac       0x1e obj_hhkb_unimap/common/hook.o
+                0x000036ac                hook_matrix_change
+ .text.hook_default_layer_change
+                0x000036ca        0x2 obj_hhkb_unimap/common/hook.o
+                0x000036ca                hook_default_layer_change
+ .text.hook_layer_change
+                0x000036cc        0x2 obj_hhkb_unimap/common/hook.o
+                0x000036cc                hook_layer_change
+ .text.hook_keyboard_leds_change
+                0x000036ce        0x4 obj_hhkb_unimap/common/hook.o
+                0x000036ce                hook_keyboard_leds_change
+ .text.suspend_power_down
+                0x000036d2       0x4c obj_hhkb_unimap/common/avr/suspend.o
+                0x000036d2                suspend_power_down
+ .text.suspend_wakeup_condition
+                0x0000371e       0x2a obj_hhkb_unimap/common/avr/suspend.o
+                0x0000371e                suspend_wakeup_condition
+ .text.suspend_wakeup_init
+                0x00003748        0x8 obj_hhkb_unimap/common/avr/suspend.o
+                0x00003748                suspend_wakeup_init
+ .text.__vector_12
+                0x00003750       0x52 obj_hhkb_unimap/common/avr/suspend.o
+                0x00003750                __vector_12
+ .text.timer_init
+                0x000037a2       0x12 obj_hhkb_unimap/common/avr/timer.o
+                0x000037a2                timer_init
+ .text.timer_read
+                0x000037b4       0x18 obj_hhkb_unimap/common/avr/timer.o
+                0x000037b4                timer_read
+ .text.timer_read32
+                0x000037cc       0x18 obj_hhkb_unimap/common/avr/timer.o
+                0x000037cc                timer_read32
+ .text.timer_elapsed
+                0x000037e4       0x52 obj_hhkb_unimap/common/avr/timer.o
+                0x000037e4                timer_elapsed
+ .text.timer_elapsed32
+                0x00003836       0x58 obj_hhkb_unimap/common/avr/timer.o
+                0x00003836                timer_elapsed32
+ .text.__vector_21
+                0x0000388e       0x4a obj_hhkb_unimap/common/avr/timer.o
+                0x0000388e                __vector_21
+ .text.bootloader_jump
+                0x000038d8       0x46 obj_hhkb_unimap/common/avr/bootloader.o
+                0x000038d8                bootloader_jump
+ .text.unimap_translate
+                0x0000391e       0x1c obj_hhkb_unimap/common/unimap.o
+                0x0000391e                unimap_translate
+ .text.action_for_key
+                0x0000393a       0x54 obj_hhkb_unimap/common/unimap.o
+                0x0000393a                action_for_key
+ .text.action_get_macro
+                0x0000398e        0x6 obj_hhkb_unimap/common/unimap.o
+                0x0000398e                action_get_macro
+ .text.action_function
+                0x00003994        0x2 obj_hhkb_unimap/common/unimap.o
+                0x00003994                action_function
+ .text.move_unit
+                0x00003996       0x90 obj_hhkb_unimap/common/mousekey.o
+ .text.wheel_unit
+                0x00003a26       0x72 obj_hhkb_unimap/common/mousekey.o
+ .text.mousekey_on
+                0x00003a98       0xd0 obj_hhkb_unimap/common/mousekey.o
+                0x00003a98                mousekey_on
+ .text.mousekey_off
+                0x00003b68      0x10a obj_hhkb_unimap/common/mousekey.o
+                0x00003b68                mousekey_off
+ .text.mousekey_send
+                0x00003c72      0x11a obj_hhkb_unimap/common/mousekey.o
+                0x00003c72                mousekey_send
+ .text.mousekey_task
+                0x00003d8c      0x142 obj_hhkb_unimap/common/mousekey.o
+                0x00003d8c                mousekey_task
+ .text.mousekey_clear
+                0x00003ece       0x18 obj_hhkb_unimap/common/mousekey.o
+                0x00003ece                mousekey_clear
+ .text.mousekey_console_help
+                0x00003ee6       0x2e obj_hhkb_unimap/common/command.o
+ .text.mousekey_param_inc
+                0x00003f14      0x146 obj_hhkb_unimap/common/command.o
+ .text.mousekey_param_dec
+                0x0000405a       0xfc obj_hhkb_unimap/common/command.o
+ .text.switch_default_layer
+                0x00004156       0x3c obj_hhkb_unimap/common/command.o
+ .text.command_common
+                0x00004192      0x274 obj_hhkb_unimap/common/command.o
+ .text.command_extra
+                0x00004406        0x4 obj_hhkb_unimap/common/command.o
+                0x00004406                command_extra
+ .text.command_console_extra
+                0x0000440a        0x4 obj_hhkb_unimap/common/command.o
+                0x0000440a                command_console_extra
+ .text.command_proc
+                0x0000440e      0x2a4 obj_hhkb_unimap/common/command.o
+                0x0000440e                command_proc
+ .text.avr-libc.fplib
+                0x000046b2        0xa /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                0x000046b2                __fixsfsi
+ .text.avr-libc.fplib
+                0x000046bc       0x58 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                0x000046bc                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00004714       0x7a /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                0x00004714                __floatunsisf
+                0x00004718                __floatsisf
+ .text.avr-libc.fplib
+                0x0000478e       0x44 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+                0x0000478e                __fp_split3
+                0x0000479e                __fp_splitA
+ .text.avr-libc.fplib
+                0x000047d2        0xe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                0x000047d2                __fp_zero
+                0x000047d4                __fp_szero
+ .text.avr-libc.fplib
+                0x000047e0        0x4 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+                0x000047e0                __mulsf3
+ .text.avr-libc.fplib
+                0x000047e4       0xc2 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                0x000047f8                __mulsf3x
+                0x000047fc                __mulsf3_pse
+ .text.avr-libc.fplib
+                0x000048a6        0xc /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+                0x000048a6                __fp_inf
+ .text.avr-libc.fplib
+                0x000048b2        0x6 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+                0x000048b2                __fp_nan
+ .text.avr-libc.fplib
+                0x000048b8        0xe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                0x000048b8                __fp_pscA
+ .text.avr-libc.fplib
+                0x000048c6        0xe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                0x000048c6                __fp_pscB
+ .text.avr-libc.fplib
+                0x000048d4       0x22 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_round.o)
+                0x000048d4                __fp_round
+ .text.libgcc.div
+                0x000048f6       0x18 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodqi4.o)
+                0x000048f6                __udivmodqi4
+ .text.libgcc.div
+                0x0000490e       0x28 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+                0x0000490e                __divmodhi4
+                0x0000490e                _div
+ .text.libgcc   0x00004936        0xc /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+                0x00004936                __tablejump2__
+                0x0000493a                __tablejump__
+ .text.libgcc.div
+                0x00004942       0x28 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+                0x00004942                __udivmodhi4
+                0x0000496a                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000496a        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+                0x0000496a                exit
+                0x0000496a                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000496a        0x4 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000496e                _etext = .
+
+.data           0x00800100       0x38 load address 0x0000496e
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.lufa_driver
+                0x00800100        0xa obj_hhkb_unimap/protocol/lufa/lufa.o
+                0x00800100                lufa_driver
+ .data.keyboard_protocol
+                0x0080010a        0x1 obj_hhkb_unimap/protocol/lufa/lufa.o
+                0x0080010a                keyboard_protocol
+ .data.keyboard_nkro
+                0x0080010b        0x1 obj_hhkb_unimap/common/host.o
+                0x0080010b                keyboard_nkro
+ .data.keyboard_report
+                0x0080010c        0x2 obj_hhkb_unimap/common/action_util.o
+                0x0080010c                keyboard_report
+ .data.mk_wheel_time_to_max
+                0x0080010e        0x1 obj_hhkb_unimap/common/mousekey.o
+                0x0080010e                mk_wheel_time_to_max
+ .data.mk_wheel_max_speed
+                0x0080010f        0x1 obj_hhkb_unimap/common/mousekey.o
+                0x0080010f                mk_wheel_max_speed
+ .data.mk_time_to_max
+                0x00800110        0x1 obj_hhkb_unimap/common/mousekey.o
+                0x00800110                mk_time_to_max
+ .data.mk_max_speed
+                0x00800111        0x1 obj_hhkb_unimap/common/mousekey.o
+                0x00800111                mk_max_speed
+ .data.mk_interval
+                0x00800112        0x1 obj_hhkb_unimap/common/mousekey.o
+                0x00800112                mk_interval
+ .data.mk_delay
+                0x00800113        0x1 obj_hhkb_unimap/common/mousekey.o
+                0x00800113                mk_delay
+ *(.rodata)
+ *(.rodata*)
+ .rodata.CSWTCH.3
+                0x00800114        0x5 obj_hhkb_unimap/protocol/lufa/descriptor.o
+ .rodata.CSWTCH.2
+                0x00800119        0xa obj_hhkb_unimap/protocol/lufa/descriptor.o
+ .rodata.CSWTCH.1
+                0x00800123        0xa obj_hhkb_unimap/protocol/lufa/descriptor.o
+ .rodata.str1.1
+                0x0080012d        0x1 obj_hhkb_unimap/common/matrix.o
+ .rodata.CSWTCH.43
+                0x0080012e        0xa obj_hhkb_unimap/common/command.o
+ *(.gnu.linkonce.d*)
+                0x00800138                . = ALIGN (0x2)
+                0x00800138                _edata = .
+                0x00800138                PROVIDE (__data_end, .)
+
+.bss            0x00800138       0xd2
+                0x00800138                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800138        0x2 obj_hhkb_unimap/common/avr/xprintf.o
+                0x00800138                xfunc_out
+ *(.bss*)
+ .bss._matrix1  0x0080013a        0x8 obj_hhkb_unimap/matrix.o
+ .bss._matrix0  0x00800142        0x8 obj_hhkb_unimap/matrix.o
+ .bss.matrix_prev
+                0x0080014a        0x2 obj_hhkb_unimap/matrix.o
+ .bss.matrix    0x0080014c        0x2 obj_hhkb_unimap/matrix.o
+ .bss.matrix_last_modified
+                0x0080014e        0x4 obj_hhkb_unimap/matrix.o
+ .bss.timeouted.4760
+                0x00800152        0x1 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .bss.count.4690
+                0x00800153        0x1 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .bss._led_stats
+                0x00800154        0x1 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .bss.console_flush
+                0x00800155        0x1 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .bss.keyboard_report_sent
+                0x00800156       0x20 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .bss.keyboard_led_stats
+                0x00800176        0x1 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .bss.keyboard_idle
+                0x00800177        0x1 obj_hhkb_unimap/protocol/lufa/lufa.o
+                0x00800177                keyboard_idle
+ .bss.last_consumer_report
+                0x00800178        0x2 obj_hhkb_unimap/common/host.o
+ .bss.last_system_report
+                0x0080017a        0x2 obj_hhkb_unimap/common/host.o
+ .bss.driver    0x0080017c        0x2 obj_hhkb_unimap/common/host.o
+ .bss.led_status.4719
+                0x0080017e        0x1 obj_hhkb_unimap/common/keyboard.o
+ .bss.matrix_prev.4718
+                0x0080017f        0x8 obj_hhkb_unimap/common/keyboard.o
+ .bss.waiting_buffer_tail
+                0x00800187        0x1 obj_hhkb_unimap/common/action_tapping.o
+ .bss.waiting_buffer_head
+                0x00800188        0x1 obj_hhkb_unimap/common/action_tapping.o
+ .bss.waiting_buffer
+                0x00800189       0x30 obj_hhkb_unimap/common/action_tapping.o
+ .bss.tapping_key
+                0x008001b9        0x6 obj_hhkb_unimap/common/action_tapping.o
+ .bss.layer_state
+                0x008001bf        0x4 obj_hhkb_unimap/common/action_layer.o
+                0x008001bf                layer_state
+ .bss.default_layer_state
+                0x008001c3        0x4 obj_hhkb_unimap/common/action_layer.o
+                0x008001c3                default_layer_state
+ .bss.oneshot_time
+                0x008001c7        0x2 obj_hhkb_unimap/common/action_util.o
+ .bss.oneshot_mods
+                0x008001c9        0x1 obj_hhkb_unimap/common/action_util.o
+ .bss.__compound_literal.0
+                0x008001ca       0x20 obj_hhkb_unimap/common/action_util.o
+ .bss.weak_mods
+                0x008001ea        0x1 obj_hhkb_unimap/common/action_util.o
+ .bss.real_mods
+                0x008001eb        0x1 obj_hhkb_unimap/common/action_util.o
+ .bss.debug_config
+                0x008001ec        0x1 obj_hhkb_unimap/common/debug.o
+                0x008001ec                debug_config
+ .bss.wdt_timeout
+                0x008001ed        0x1 obj_hhkb_unimap/common/avr/suspend.o
+ .bss.timer_count
+                0x008001ee        0x4 obj_hhkb_unimap/common/avr/timer.o
+                0x008001ee                timer_count
+ .bss.last_timer
+                0x008001f2        0x2 obj_hhkb_unimap/common/mousekey.o
+ .bss.mousekey_accel
+                0x008001f4        0x1 obj_hhkb_unimap/common/mousekey.o
+ .bss.mousekey_repeat
+                0x008001f5        0x1 obj_hhkb_unimap/common/mousekey.o
+ .bss.mouse_report
+                0x008001f6        0x5 obj_hhkb_unimap/common/mousekey.o
+ .bss.mousekey_param
+                0x008001fb        0x1 obj_hhkb_unimap/common/command.o
+ .bss.command_state
+                0x008001fc        0x1 obj_hhkb_unimap/common/command.o
+                0x008001fc                command_state
+ *(COMMON)
+ COMMON         0x008001fd        0x3 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+                0x008001fd                USB_Device_ConfigurationNumber
+                0x008001fe                USB_Device_CurrentlySelfPowered
+                0x008001ff                USB_Device_RemoteWakeupEnabled
+ COMMON         0x00800200        0xa obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+                0x00800200                USB_IsInitialized
+                0x00800201                USB_DeviceState
+                0x00800202                USB_ControlRequest
+                0x0080020a                PROVIDE (__bss_end, .)
+                0x0000496e                __data_load_start = LOADADDR (.data)
+                0x000049a6                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080020a        0x4
+                0x0080020a                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+ .noinit        0x0080020a        0x4 obj_hhkb_unimap/common/avr/bootloader.o
+                0x0080020a                reset_key
+                0x0080020e                PROVIDE (__noinit_end, .)
+                0x0080020e                _end = .
+                0x0080020e                PROVIDE (__heap_start, .)
+
+.keymap         0x00006800      0x200
+                0x00006800                PROVIDE (__keymap_start, .)
+ *(.keymap.fn_actions)
+                0x00006800                . = ALIGN (0x40)
+ *(.keymap.keymaps)
+ .keymap.keymaps
+                0x00006800      0x200 obj_hhkb_unimap/unimap_hhkb.o
+                0x00006800                actionmaps
+ *(.keymap*)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000      0x8b8
+ *(.stab)
+ .stab          0x00000000      0x8b8 obj_hhkb_unimap/common/avr/xprintf.o
+
+.stabstr        0x00000000       0xa0
+ *(.stabstr)
+ .stabstr       0x00000000       0xa0 obj_hhkb_unimap/common/avr/xprintf.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x11
+ *(.comment)
+ .comment       0x00000000       0x11 obj_hhkb_unimap/unimap_hhkb.o
+                                 0x12 (size before relaxing)
+ .comment       0x00000000       0x12 obj_hhkb_unimap/matrix.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/led.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/protocol/lufa/descriptor.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Device_AVR8.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/common/host.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/common/keyboard.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/common/matrix.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/common/action.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/common/action_tapping.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/common/action_macro.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/common/action_layer.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/common/action_util.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/common/print.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/common/debug.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/common/util.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/common/hook.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/common/avr/suspend.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/common/avr/timer.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/common/avr/bootloader.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/common/unimap.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/common/mousekey.o
+ .comment       0x00000000       0x12 obj_hhkb_unimap/common/command.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x990
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x18 obj_hhkb_unimap/unimap_hhkb.o
+ .debug_aranges
+                0x00000018       0x40 obj_hhkb_unimap/matrix.o
+ .debug_aranges
+                0x00000058       0x20 obj_hhkb_unimap/led.o
+ .debug_aranges
+                0x00000078       0xb8 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .debug_aranges
+                0x00000130       0x20 obj_hhkb_unimap/protocol/lufa/descriptor.o
+ .debug_aranges
+                0x00000150       0x20 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Device_AVR8.o
+ .debug_aranges
+                0x00000170       0xc8 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .debug_aranges
+                0x00000238       0x40 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+ .debug_aranges
+                0x00000278       0x30 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+ .debug_aranges
+                0x000002a8       0x38 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+ .debug_aranges
+                0x000002e0       0x20 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+ .debug_aranges
+                0x00000300       0x20 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+ .debug_aranges
+                0x00000320       0x60 obj_hhkb_unimap/common/host.o
+ .debug_aranges
+                0x00000380       0x38 obj_hhkb_unimap/common/keyboard.o
+ .debug_aranges
+                0x000003b8       0x58 obj_hhkb_unimap/common/matrix.o
+ .debug_aranges
+                0x00000410       0x78 obj_hhkb_unimap/common/action.o
+ .debug_aranges
+                0x00000488       0x40 obj_hhkb_unimap/common/action_tapping.o
+ .debug_aranges
+                0x000004c8       0x20 obj_hhkb_unimap/common/action_macro.o
+ .debug_aranges
+                0x000004e8       0xa0 obj_hhkb_unimap/common/action_layer.o
+ .debug_aranges
+                0x00000588       0xb0 obj_hhkb_unimap/common/action_util.o
+ .debug_aranges
+                0x00000638       0x20 obj_hhkb_unimap/common/print.o
+ .debug_aranges
+                0x00000658       0x18 obj_hhkb_unimap/common/debug.o
+ .debug_aranges
+                0x00000670       0x60 obj_hhkb_unimap/common/util.o
+ .debug_aranges
+                0x000006d0       0x48 obj_hhkb_unimap/common/hook.o
+ .debug_aranges
+                0x00000718       0x40 obj_hhkb_unimap/common/avr/suspend.o
+ .debug_aranges
+                0x00000758       0x50 obj_hhkb_unimap/common/avr/timer.o
+ .debug_aranges
+                0x000007a8       0x28 obj_hhkb_unimap/common/avr/bootloader.o
+ .debug_aranges
+                0x000007d0       0x38 obj_hhkb_unimap/common/unimap.o
+ .debug_aranges
+                0x00000808       0x50 obj_hhkb_unimap/common/mousekey.o
+ .debug_aranges
+                0x00000858       0x58 obj_hhkb_unimap/common/command.o
+ .debug_aranges
+                0x000008b0       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodqi4.o)
+ .debug_aranges
+                0x000008d0       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .debug_aranges
+                0x000008f0       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .debug_aranges
+                0x00000910       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .debug_aranges
+                0x00000930       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x00000950       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .debug_aranges
+                0x00000970       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xdf9f
+ *(.debug_info)
+ .debug_info    0x00000000      0xc0c obj_hhkb_unimap/unimap_hhkb.o
+ .debug_info    0x00000c0c      0x51f obj_hhkb_unimap/matrix.o
+ .debug_info    0x0000112b       0x91 obj_hhkb_unimap/led.o
+ .debug_info    0x000011bc     0x15f8 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .debug_info    0x000027b4      0x818 obj_hhkb_unimap/protocol/lufa/descriptor.o
+ .debug_info    0x00002fcc       0xd2 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Device_AVR8.o
+ .debug_info    0x0000309e     0x17b4 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .debug_info    0x00004852      0x614 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+ .debug_info    0x00004e66      0x4cb obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+ .debug_info    0x00005331      0x7c4 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+ .debug_info    0x00005af5      0xa57 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+ .debug_info    0x0000654c      0x26b obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+ .debug_info    0x000067b7      0x55c obj_hhkb_unimap/common/host.o
+ .debug_info    0x00006d13      0x468 obj_hhkb_unimap/common/keyboard.o
+ .debug_info    0x0000717b      0x19d obj_hhkb_unimap/common/matrix.o
+ .debug_info    0x00007318     0x151a obj_hhkb_unimap/common/action.o
+ .debug_info    0x00008832      0xe2e obj_hhkb_unimap/common/action_tapping.o
+ .debug_info    0x00009660      0x88b obj_hhkb_unimap/common/action_macro.o
+ .debug_info    0x00009eeb      0x7d3 obj_hhkb_unimap/common/action_layer.o
+ .debug_info    0x0000a6be      0x77a obj_hhkb_unimap/common/action_util.o
+ .debug_info    0x0000ae38       0xda obj_hhkb_unimap/common/print.o
+ .debug_info    0x0000af12       0xfc obj_hhkb_unimap/common/debug.o
+ .debug_info    0x0000b00e      0x29b obj_hhkb_unimap/common/util.o
+ .debug_info    0x0000b2a9      0x1ff obj_hhkb_unimap/common/hook.o
+ .debug_info    0x0000b4a8      0x288 obj_hhkb_unimap/common/avr/suspend.o
+ .debug_info    0x0000b730      0x204 obj_hhkb_unimap/common/avr/timer.o
+ .debug_info    0x0000b934      0x18a obj_hhkb_unimap/common/avr/bootloader.o
+ .debug_info    0x0000babe      0x966 obj_hhkb_unimap/common/unimap.o
+ .debug_info    0x0000c424      0x7c6 obj_hhkb_unimap/common/mousekey.o
+ .debug_info    0x0000cbea      0xe83 obj_hhkb_unimap/common/command.o
+ .debug_info    0x0000da6d       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodqi4.o)
+ .debug_info    0x0000db2b       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .debug_info    0x0000dbe9       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .debug_info    0x0000dca7       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .debug_info    0x0000dd65       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .debug_info    0x0000de23       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .debug_info    0x0000dee1       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x36de
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0xed obj_hhkb_unimap/unimap_hhkb.o
+ .debug_abbrev  0x000000ed      0x26d obj_hhkb_unimap/matrix.o
+ .debug_abbrev  0x0000035a       0x60 obj_hhkb_unimap/led.o
+ .debug_abbrev  0x000003ba      0x4d2 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .debug_abbrev  0x0000088c      0x177 obj_hhkb_unimap/protocol/lufa/descriptor.o
+ .debug_abbrev  0x00000a03       0x80 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Device_AVR8.o
+ .debug_abbrev  0x00000a83      0x213 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .debug_abbrev  0x00000c96      0x222 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+ .debug_abbrev  0x00000eb8      0x196 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+ .debug_abbrev  0x0000104e      0x234 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+ .debug_abbrev  0x00001282      0x2d8 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+ .debug_abbrev  0x0000155a      0x168 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+ .debug_abbrev  0x000016c2      0x229 obj_hhkb_unimap/common/host.o
+ .debug_abbrev  0x000018eb      0x226 obj_hhkb_unimap/common/keyboard.o
+ .debug_abbrev  0x00001b11       0xf7 obj_hhkb_unimap/common/matrix.o
+ .debug_abbrev  0x00001c08      0x2ce obj_hhkb_unimap/common/action.o
+ .debug_abbrev  0x00001ed6      0x2ef obj_hhkb_unimap/common/action_tapping.o
+ .debug_abbrev  0x000021c5      0x1a5 obj_hhkb_unimap/common/action_macro.o
+ .debug_abbrev  0x0000236a      0x20b obj_hhkb_unimap/common/action_layer.o
+ .debug_abbrev  0x00002575      0x2ff obj_hhkb_unimap/common/action_util.o
+ .debug_abbrev  0x00002874       0x97 obj_hhkb_unimap/common/print.o
+ .debug_abbrev  0x0000290b       0x87 obj_hhkb_unimap/common/debug.o
+ .debug_abbrev  0x00002992       0xcb obj_hhkb_unimap/common/util.o
+ .debug_abbrev  0x00002a5d      0x100 obj_hhkb_unimap/common/hook.o
+ .debug_abbrev  0x00002b5d      0x1b1 obj_hhkb_unimap/common/avr/suspend.o
+ .debug_abbrev  0x00002d0e      0x11e obj_hhkb_unimap/common/avr/timer.o
+ .debug_abbrev  0x00002e2c      0x115 obj_hhkb_unimap/common/avr/bootloader.o
+ .debug_abbrev  0x00002f41      0x1f3 obj_hhkb_unimap/common/unimap.o
+ .debug_abbrev  0x00003134      0x204 obj_hhkb_unimap/common/mousekey.o
+ .debug_abbrev  0x00003338      0x31a obj_hhkb_unimap/common/command.o
+ .debug_abbrev  0x00003652       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodqi4.o)
+ .debug_abbrev  0x00003666       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .debug_abbrev  0x0000367a       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .debug_abbrev  0x0000368e       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .debug_abbrev  0x000036a2       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .debug_abbrev  0x000036b6       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .debug_abbrev  0x000036ca       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+
+.debug_line     0x00000000     0x517b
+ *(.debug_line)
+ .debug_line    0x00000000      0x100 obj_hhkb_unimap/unimap_hhkb.o
+ .debug_line    0x00000100      0x275 obj_hhkb_unimap/matrix.o
+ .debug_line    0x00000375       0x70 obj_hhkb_unimap/led.o
+ .debug_line    0x000003e5      0x80a obj_hhkb_unimap/protocol/lufa/lufa.o
+ .debug_line    0x00000bef      0x206 obj_hhkb_unimap/protocol/lufa/descriptor.o
+ .debug_line    0x00000df5      0x141 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Device_AVR8.o
+ .debug_line    0x00000f36      0xc93 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .debug_line    0x00001bc9      0x400 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+ .debug_line    0x00001fc9      0x30b obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+ .debug_line    0x000022d4      0x4e0 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+ .debug_line    0x000027b4      0x39c obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+ .debug_line    0x00002b50      0x1ac obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+ .debug_line    0x00002cfc      0x1ee obj_hhkb_unimap/common/host.o
+ .debug_line    0x00002eea      0x1cc obj_hhkb_unimap/common/keyboard.o
+ .debug_line    0x000030b6      0x115 obj_hhkb_unimap/common/matrix.o
+ .debug_line    0x000031cb      0x47e obj_hhkb_unimap/common/action.o
+ .debug_line    0x00003649      0x27c obj_hhkb_unimap/common/action_tapping.o
+ .debug_line    0x000038c5      0x198 obj_hhkb_unimap/common/action_macro.o
+ .debug_line    0x00003a5d      0x1e0 obj_hhkb_unimap/common/action_layer.o
+ .debug_line    0x00003c3d      0x2d3 obj_hhkb_unimap/common/action_util.o
+ .debug_line    0x00003f10       0xac obj_hhkb_unimap/common/print.o
+ .debug_line    0x00003fbc       0x80 obj_hhkb_unimap/common/debug.o
+ .debug_line    0x0000403c      0x195 obj_hhkb_unimap/common/util.o
+ .debug_line    0x000041d1       0xdf obj_hhkb_unimap/common/hook.o
+ .debug_line    0x000042b0      0x1be obj_hhkb_unimap/common/avr/suspend.o
+ .debug_line    0x0000446e      0x124 obj_hhkb_unimap/common/avr/timer.o
+ .debug_line    0x00004592      0x19a obj_hhkb_unimap/common/avr/bootloader.o
+ .debug_line    0x0000472c      0x14d obj_hhkb_unimap/common/unimap.o
+ .debug_line    0x00004879      0x31f obj_hhkb_unimap/common/mousekey.o
+ .debug_line    0x00004b98      0x33b obj_hhkb_unimap/common/command.o
+ .debug_line    0x00004ed3       0x62 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodqi4.o)
+ .debug_line    0x00004f35       0x69 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .debug_line    0x00004f9e       0x58 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .debug_line    0x00004ff6       0x5c /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .debug_line    0x00005052       0x61 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .debug_line    0x000050b3       0x5e /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .debug_line    0x00005111       0x6a /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+
+.debug_frame    0x00000000     0x1788
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x7c obj_hhkb_unimap/matrix.o
+ .debug_frame   0x0000007c       0x24 obj_hhkb_unimap/led.o
+ .debug_frame   0x000000a0      0x188 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .debug_frame   0x00000228       0x24 obj_hhkb_unimap/protocol/lufa/descriptor.o
+ .debug_frame   0x0000024c       0x24 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Device_AVR8.o
+ .debug_frame   0x00000270      0x414 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .debug_frame   0x00000684       0x7c obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+ .debug_frame   0x00000700       0x5c obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+ .debug_frame   0x0000075c      0x104 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+ .debug_frame   0x00000860       0x3c obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+ .debug_frame   0x0000089c       0x2c obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+ .debug_frame   0x000008c8      0x10c obj_hhkb_unimap/common/host.o
+ .debug_frame   0x000009d4       0x8c obj_hhkb_unimap/common/keyboard.o
+ .debug_frame   0x00000a60       0xe8 obj_hhkb_unimap/common/matrix.o
+ .debug_frame   0x00000b48      0x150 obj_hhkb_unimap/common/action.o
+ .debug_frame   0x00000c98       0xd0 obj_hhkb_unimap/common/action_tapping.o
+ .debug_frame   0x00000d68       0x50 obj_hhkb_unimap/common/action_macro.o
+ .debug_frame   0x00000db8      0x19c obj_hhkb_unimap/common/action_layer.o
+ .debug_frame   0x00000f54      0x17c obj_hhkb_unimap/common/action_util.o
+ .debug_frame   0x000010d0       0x24 obj_hhkb_unimap/common/print.o
+ .debug_frame   0x000010f4      0x110 obj_hhkb_unimap/common/util.o
+ .debug_frame   0x00001204       0x88 obj_hhkb_unimap/common/hook.o
+ .debug_frame   0x0000128c       0x90 obj_hhkb_unimap/common/avr/suspend.o
+ .debug_frame   0x0000131c       0xf0 obj_hhkb_unimap/common/avr/timer.o
+ .debug_frame   0x0000140c       0x34 obj_hhkb_unimap/common/avr/bootloader.o
+ .debug_frame   0x00001440       0x5c obj_hhkb_unimap/common/unimap.o
+ .debug_frame   0x0000149c       0xf0 obj_hhkb_unimap/common/mousekey.o
+ .debug_frame   0x0000158c      0x1fc obj_hhkb_unimap/common/command.o
+
+.debug_str      0x00000000     0x41b0
+ *(.debug_str)
+ .debug_str     0x00000000      0xf06 obj_hhkb_unimap/unimap_hhkb.o
+                                0xf87 (size before relaxing)
+ .debug_str     0x00000f06      0x224 obj_hhkb_unimap/matrix.o
+                                0x3ae (size before relaxing)
+ .debug_str     0x0000112a       0x16 obj_hhkb_unimap/led.o
+                                0x173 (size before relaxing)
+ .debug_str     0x00001140      0x7c6 obj_hhkb_unimap/protocol/lufa/lufa.o
+                                0xace (size before relaxing)
+ .debug_str     0x00001906      0x7d7 obj_hhkb_unimap/protocol/lufa/descriptor.o
+                                0x9b6 (size before relaxing)
+ .debug_str     0x000020dd       0x7b obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Device_AVR8.o
+                                0x203 (size before relaxing)
+ .debug_str     0x00002158      0x4fe obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+                                0x866 (size before relaxing)
+ .debug_str     0x00002656      0x22a obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+                                0x625 (size before relaxing)
+ .debug_str     0x00002880      0x1dd obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+                                0x564 (size before relaxing)
+ .debug_str     0x00002a5d      0x129 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+                                0x5e3 (size before relaxing)
+ .debug_str     0x00002b86      0x417 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+                                0x9d7 (size before relaxing)
+ .debug_str     0x00002f9d       0x6e obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+                                0x38a (size before relaxing)
+ .debug_str     0x0000300b       0xe6 obj_hhkb_unimap/common/host.o
+                                0x37c (size before relaxing)
+ .debug_str     0x000030f1       0xff obj_hhkb_unimap/common/keyboard.o
+                                0x373 (size before relaxing)
+ .debug_str     0x000031f0       0x44 obj_hhkb_unimap/common/matrix.o
+                                0x20c (size before relaxing)
+ .debug_str     0x00003234      0x6b0 obj_hhkb_unimap/common/action.o
+                               0x10e2 (size before relaxing)
+ .debug_str     0x000038e4       0xec obj_hhkb_unimap/common/action_tapping.o
+                                0xad5 (size before relaxing)
+ .debug_str     0x000039d0       0x91 obj_hhkb_unimap/common/action_macro.o
+                                0x8c0 (size before relaxing)
+ .debug_str     0x00003a61       0xa5 obj_hhkb_unimap/common/action_layer.o
+                                0x415 (size before relaxing)
+ .debug_str     0x00003b06       0xfc obj_hhkb_unimap/common/action_util.o
+                                0x420 (size before relaxing)
+ .debug_str     0x00003c02       0x36 obj_hhkb_unimap/common/print.o
+                                0x1ad (size before relaxing)
+ .debug_str     0x00003c38       0x1e obj_hhkb_unimap/common/debug.o
+                                0x1c3 (size before relaxing)
+ .debug_str     0x00003c56       0x58 obj_hhkb_unimap/common/util.o
+                                0x1d9 (size before relaxing)
+ .debug_str     0x00003cae       0x2c obj_hhkb_unimap/common/hook.o
+                                0x271 (size before relaxing)
+ .debug_str     0x00003cda       0x5a obj_hhkb_unimap/common/avr/suspend.o
+                                0x344 (size before relaxing)
+ .debug_str     0x00003d34       0x48 obj_hhkb_unimap/common/avr/timer.o
+                                0x200 (size before relaxing)
+ .debug_str     0x00003d7c       0x66 obj_hhkb_unimap/common/avr/bootloader.o
+                                0x247 (size before relaxing)
+ .debug_str     0x00003de2       0x3b obj_hhkb_unimap/common/unimap.o
+                                0x97a (size before relaxing)
+ .debug_str     0x00003e1d       0xfd obj_hhkb_unimap/common/mousekey.o
+                                0x695 (size before relaxing)
+ .debug_str     0x00003f1a      0x296 obj_hhkb_unimap/common/command.o
+                                0xb7d (size before relaxing)
+
+.debug_loc      0x00000000     0x719d
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x175 obj_hhkb_unimap/matrix.o
+ .debug_loc     0x00000175      0x700 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .debug_loc     0x00000875      0x20a obj_hhkb_unimap/protocol/lufa/descriptor.o
+ .debug_loc     0x00000a7f     0x1db2 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .debug_loc     0x00002831      0x3f2 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+ .debug_loc     0x00002c23       0x49 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+ .debug_loc     0x00002c6c      0x333 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+ .debug_loc     0x00002f9f      0x2a8 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+ .debug_loc     0x00003247       0x49 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+ .debug_loc     0x00003290      0x298 obj_hhkb_unimap/common/host.o
+ .debug_loc     0x00003528      0x179 obj_hhkb_unimap/common/keyboard.o
+ .debug_loc     0x000036a1      0x162 obj_hhkb_unimap/common/matrix.o
+ .debug_loc     0x00003803      0xdee obj_hhkb_unimap/common/action.o
+ .debug_loc     0x000045f1      0x633 obj_hhkb_unimap/common/action_tapping.o
+ .debug_loc     0x00004c24      0x550 obj_hhkb_unimap/common/action_macro.o
+ .debug_loc     0x00005174      0x45a obj_hhkb_unimap/common/action_layer.o
+ .debug_loc     0x000055ce      0x439 obj_hhkb_unimap/common/action_util.o
+ .debug_loc     0x00005a07      0x503 obj_hhkb_unimap/common/util.o
+ .debug_loc     0x00005f0a       0x69 obj_hhkb_unimap/common/hook.o
+ .debug_loc     0x00005f73       0xc5 obj_hhkb_unimap/common/avr/suspend.o
+ .debug_loc     0x00006038      0x20a obj_hhkb_unimap/common/avr/timer.o
+ .debug_loc     0x00006242       0xee obj_hhkb_unimap/common/unimap.o
+ .debug_loc     0x00006330      0x574 obj_hhkb_unimap/common/mousekey.o
+ .debug_loc     0x000068a4      0x8f9 obj_hhkb_unimap/common/command.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+START GROUP
+LOAD /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a
+LOAD /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a
+LOAD /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a
+END GROUP
+OUTPUT(hhkb_unimap.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000      0xa50
+ .debug_ranges  0x00000000       0x78 obj_hhkb_unimap/matrix.o
+ .debug_ranges  0x00000078       0x10 obj_hhkb_unimap/led.o
+ .debug_ranges  0x00000088       0xa8 obj_hhkb_unimap/protocol/lufa/lufa.o
+ .debug_ranges  0x00000130       0x10 obj_hhkb_unimap/protocol/lufa/descriptor.o
+ .debug_ranges  0x00000140       0x10 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Device_AVR8.o
+ .debug_ranges  0x00000150      0x250 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+ .debug_ranges  0x000003a0       0x90 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+ .debug_ranges  0x00000430       0x20 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+ .debug_ranges  0x00000450       0x28 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+ .debug_ranges  0x00000478       0x40 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+ .debug_ranges  0x000004b8       0x10 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+ .debug_ranges  0x000004c8       0x50 obj_hhkb_unimap/common/host.o
+ .debug_ranges  0x00000518       0x48 obj_hhkb_unimap/common/keyboard.o
+ .debug_ranges  0x00000560       0x48 obj_hhkb_unimap/common/matrix.o
+ .debug_ranges  0x000005a8       0xf0 obj_hhkb_unimap/common/action.o
+ .debug_ranges  0x00000698       0x60 obj_hhkb_unimap/common/action_tapping.o
+ .debug_ranges  0x000006f8       0x28 obj_hhkb_unimap/common/action_macro.o
+ .debug_ranges  0x00000720       0x90 obj_hhkb_unimap/common/action_layer.o
+ .debug_ranges  0x000007b0       0xb8 obj_hhkb_unimap/common/action_util.o
+ .debug_ranges  0x00000868       0x10 obj_hhkb_unimap/common/print.o
+ .debug_ranges  0x00000878       0x50 obj_hhkb_unimap/common/util.o
+ .debug_ranges  0x000008c8       0x38 obj_hhkb_unimap/common/hook.o
+ .debug_ranges  0x00000900       0x48 obj_hhkb_unimap/common/avr/suspend.o
+ .debug_ranges  0x00000948       0x40 obj_hhkb_unimap/common/avr/timer.o
+ .debug_ranges  0x00000988       0x18 obj_hhkb_unimap/common/avr/bootloader.o
+ .debug_ranges  0x000009a0       0x28 obj_hhkb_unimap/common/unimap.o
+ .debug_ranges  0x000009c8       0x40 obj_hhkb_unimap/common/mousekey.o
+ .debug_ranges  0x00000a08       0x48 obj_hhkb_unimap/common/command.o
+
+Cross Reference Table
+
+Symbol                                            File
+CALLBACK_HIDParser_FilterHIDReportItem            obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Class/Common/HIDParser.o
+CALLBACK_USB_GetDescriptor                        obj_hhkb_unimap/protocol/lufa/descriptor.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+ConfigurationDescriptor                           obj_hhkb_unimap/protocol/lufa/descriptor.o
+ConsoleReport                                     obj_hhkb_unimap/protocol/lufa/descriptor.o
+DeviceDescriptor                                  obj_hhkb_unimap/protocol/lufa/descriptor.o
+EVENT_USB_Device_ConfigurationChanged             obj_hhkb_unimap/protocol/lufa/lufa.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+EVENT_USB_Device_Connect                          obj_hhkb_unimap/protocol/lufa/lufa.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+EVENT_USB_Device_ControlRequest                   obj_hhkb_unimap/protocol/lufa/lufa.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+EVENT_USB_Device_Disconnect                       obj_hhkb_unimap/protocol/lufa/lufa.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+EVENT_USB_Device_Reset                            obj_hhkb_unimap/protocol/lufa/lufa.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+EVENT_USB_Device_StartOfFrame                     obj_hhkb_unimap/protocol/lufa/lufa.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+EVENT_USB_Device_Suspend                          obj_hhkb_unimap/protocol/lufa/lufa.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+EVENT_USB_Device_WakeUp                           obj_hhkb_unimap/protocol/lufa/lufa.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+Endpoint_ClearEndpoints                           obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+Endpoint_ClearStatusStage                         obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+Endpoint_ConfigureEndpointTable                   obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+Endpoint_ConfigureEndpoint_Prv                    obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+Endpoint_Discard_Stream                           obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+Endpoint_Null_Stream                              obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+Endpoint_Read_Control_EStream_BE                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+Endpoint_Read_Control_EStream_LE                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+Endpoint_Read_Control_Stream_BE                   obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+Endpoint_Read_Control_Stream_LE                   obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+Endpoint_Read_EStream_BE                          obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+Endpoint_Read_EStream_LE                          obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+Endpoint_Read_Stream_BE                           obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+Endpoint_Read_Stream_LE                           obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+Endpoint_WaitUntilReady                           obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+Endpoint_Write_Control_EStream_BE                 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+Endpoint_Write_Control_EStream_LE                 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+Endpoint_Write_Control_PStream_BE                 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+Endpoint_Write_Control_PStream_LE                 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+Endpoint_Write_Control_Stream_BE                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+Endpoint_Write_Control_Stream_LE                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+Endpoint_Write_EStream_BE                         obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+Endpoint_Write_EStream_LE                         obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+Endpoint_Write_PStream_BE                         obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+Endpoint_Write_PStream_LE                         obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+Endpoint_Write_Stream_BE                          obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+Endpoint_Write_Stream_LE                          obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+ExtrakeyReport                                    obj_hhkb_unimap/protocol/lufa/descriptor.o
+KeyboardReport                                    obj_hhkb_unimap/protocol/lufa/descriptor.o
+LanguageString                                    obj_hhkb_unimap/protocol/lufa/descriptor.o
+ManufacturerString                                obj_hhkb_unimap/protocol/lufa/descriptor.o
+MouseReport                                       obj_hhkb_unimap/protocol/lufa/descriptor.o
+NKROReport                                        obj_hhkb_unimap/protocol/lufa/descriptor.o
+ProductString                                     obj_hhkb_unimap/protocol/lufa/descriptor.o
+USB_ControlRequest                                obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+USB_DeviceState                                   obj_hhkb_unimap/common/avr/suspend.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+                                                  obj_hhkb_unimap/matrix.o
+USB_Device_ConfigurationNumber                    obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+USB_Device_CurrentlySelfPowered                   obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+USB_Device_ProcessControlRequest                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+USB_Device_RemoteWakeupEnabled                    obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+USB_Device_SendRemoteWakeup                       obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/Device_AVR8.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+USB_Disable                                       obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+                                                  obj_hhkb_unimap/common/avr/bootloader.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+USB_Event_Stub                                    obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/Events.o
+USB_GetHIDReportItemInfo                          obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Class/Common/HIDParser.o
+USB_GetHIDReportSize                              obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Class/Common/HIDParser.o
+USB_GetNextDescriptorComp                         obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/ConfigDescriptors.o
+USB_GetNextDescriptorOfType                       obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/ConfigDescriptors.o
+USB_GetNextDescriptorOfTypeAfter                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/ConfigDescriptors.o
+USB_GetNextDescriptorOfTypeBefore                 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/ConfigDescriptors.o
+USB_INT_ClearAllInterrupts                        obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+USB_INT_DisableAllInterrupts                      obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+USB_Init                                          obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+USB_IsInitialized                                 obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+USB_ProcessHIDReport                              obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Class/Common/HIDParser.o
+USB_ResetInterface                                obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.o
+USB_SetHIDReportItemInfo                          obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Class/Common/HIDParser.o
+USB_USBTask                                       obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+__bad_interrupt                                   /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__bss_end                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+__bss_start                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+__data_end                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+__data_load_start                                 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+__data_start                                      /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+__divmodhi4                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+                                                  obj_hhkb_unimap/common/mousekey.o
+__do_clear_bss                                    /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+                                                  obj_hhkb_unimap/common/command.o
+                                                  obj_hhkb_unimap/common/mousekey.o
+                                                  obj_hhkb_unimap/common/avr/timer.o
+                                                  obj_hhkb_unimap/common/avr/suspend.o
+                                                  obj_hhkb_unimap/common/debug.o
+                                                  obj_hhkb_unimap/common/action_util.o
+                                                  obj_hhkb_unimap/common/action_layer.o
+                                                  obj_hhkb_unimap/common/action_tapping.o
+                                                  obj_hhkb_unimap/common/keyboard.o
+                                                  obj_hhkb_unimap/common/host.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+                                                  obj_hhkb_unimap/matrix.o
+__do_copy_data                                    /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+                                                  obj_hhkb_unimap/common/command.o
+                                                  obj_hhkb_unimap/common/mousekey.o
+                                                  obj_hhkb_unimap/common/action_util.o
+                                                  obj_hhkb_unimap/common/matrix.o
+                                                  obj_hhkb_unimap/common/host.o
+                                                  obj_hhkb_unimap/protocol/lufa/descriptor.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+__eerd_byte_m32u4                                 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(eerd_byte_atmega32u4.o)
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+__eeupd_byte_m32u4                                /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(eeupd_byte_atmega32u4.o)
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o
+__eeupd_r18_m32u4                                 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(eeupd_byte_atmega32u4.o)
+__fixsfsi                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                                  obj_hhkb_unimap/common/mousekey.o
+__fixunssfsi                                      /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+__floatsisf                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                                                  obj_hhkb_unimap/common/mousekey.o
+__floatunsisf                                     /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+__fp_inf                                          /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__fp_nan                                          /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__fp_pscA                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__fp_pscB                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__fp_round                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_round.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+__fp_split3                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__fp_splitA                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+__fp_szero                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+__fp_zero                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+__heap_end                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__init                                            /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__mulsf3                                          /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                                  obj_hhkb_unimap/common/mousekey.o
+__mulsf3_pse                                      /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__mulsf3x                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+__stack                                           /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__tablejump2__                                    /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+                                                  obj_hhkb_unimap/common/action.o
+                                                  obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/DeviceStandardReq.o
+__tablejump__                                     /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+__udivmodhi4                                      /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+__udivmodqi4                                      /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodqi4.o)
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+__vector_1                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_10                                       obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_11                                       obj_hhkb_unimap/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_12                                       obj_hhkb_unimap/common/avr/suspend.o
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_13                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_14                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_15                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_16                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_17                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_18                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_19                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_2                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_20                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_21                                       obj_hhkb_unimap/common/avr/timer.o
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_22                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_23                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_24                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_25                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_26                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_27                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_28                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_29                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_3                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_30                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_31                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_32                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_33                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_34                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_35                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_36                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_37                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_38                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_39                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_4                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_40                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_41                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_42                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_5                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_6                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_7                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_8                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_9                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vector_default                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__vectors                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+__xprintf                                         obj_hhkb_unimap/common/avr/xprintf.o
+                                                  obj_hhkb_unimap/common/command.o
+                                                  obj_hhkb_unimap/common/mousekey.o
+                                                  obj_hhkb_unimap/common/action_util.o
+                                                  obj_hhkb_unimap/common/matrix.o
+                                                  obj_hhkb_unimap/common/keyboard.o
+                                                  obj_hhkb_unimap/common/host.o
+_div                                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+_exit                                             /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+action_exec                                       obj_hhkb_unimap/common/action.o
+                                                  obj_hhkb_unimap/common/keyboard.o
+action_for_key                                    obj_hhkb_unimap/common/unimap.o
+                                                  obj_hhkb_unimap/common/action_layer.o
+action_function                                   obj_hhkb_unimap/common/unimap.o
+                                                  obj_hhkb_unimap/common/action.o
+action_get_macro                                  obj_hhkb_unimap/common/unimap.o
+                                                  obj_hhkb_unimap/common/action.o
+action_macro_play                                 obj_hhkb_unimap/common/action_macro.o
+                                                  obj_hhkb_unimap/common/action.o
+action_tapping_process                            obj_hhkb_unimap/common/action_tapping.o
+                                                  obj_hhkb_unimap/common/action.o
+actionmaps                                        obj_hhkb_unimap/unimap_hhkb.o
+                                                  obj_hhkb_unimap/common/unimap.o
+add_key                                           obj_hhkb_unimap/common/action_util.o
+                                                  obj_hhkb_unimap/common/action.o
+add_mods                                          obj_hhkb_unimap/common/action_util.o
+                                                  obj_hhkb_unimap/common/action.o
+add_weak_mods                                     obj_hhkb_unimap/common/action_util.o
+                                                  obj_hhkb_unimap/common/action_macro.o
+                                                  obj_hhkb_unimap/common/action.o
+biton                                             obj_hhkb_unimap/common/util.o
+                                                  obj_hhkb_unimap/common/action_util.o
+biton16                                           obj_hhkb_unimap/common/util.o
+biton32                                           obj_hhkb_unimap/common/util.o
+bitpop                                            obj_hhkb_unimap/common/util.o
+                                                  obj_hhkb_unimap/common/action_util.o
+bitpop16                                          obj_hhkb_unimap/common/util.o
+bitpop32                                          obj_hhkb_unimap/common/util.o
+bitrev                                            obj_hhkb_unimap/common/util.o
+                                                  obj_hhkb_unimap/common/matrix.o
+bitrev16                                          obj_hhkb_unimap/common/util.o
+bitrev32                                          obj_hhkb_unimap/common/util.o
+bootloader_jump                                   obj_hhkb_unimap/common/avr/bootloader.o
+                                                  obj_hhkb_unimap/common/command.o
+bootloader_jump_after_watchdog_reset              obj_hhkb_unimap/common/avr/bootloader.o
+clear_keyboard                                    obj_hhkb_unimap/common/action.o
+                                                  obj_hhkb_unimap/common/command.o
+                                                  obj_hhkb_unimap/common/avr/suspend.o
+                                                  obj_hhkb_unimap/common/action_tapping.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+clear_keyboard_but_mods                           obj_hhkb_unimap/common/action.o
+                                                  obj_hhkb_unimap/common/action_layer.o
+clear_keys                                        obj_hhkb_unimap/common/action_util.o
+                                                  obj_hhkb_unimap/common/action.o
+clear_mods                                        obj_hhkb_unimap/common/action_util.o
+                                                  obj_hhkb_unimap/common/action_macro.o
+                                                  obj_hhkb_unimap/common/action.o
+clear_oneshot_mods                                obj_hhkb_unimap/common/action_util.o
+                                                  obj_hhkb_unimap/common/action.o
+clear_weak_mods                                   obj_hhkb_unimap/common/action_util.o
+                                                  obj_hhkb_unimap/common/action.o
+command_console_extra                             obj_hhkb_unimap/common/command.o
+command_extra                                     obj_hhkb_unimap/common/command.o
+command_proc                                      obj_hhkb_unimap/common/command.o
+                                                  obj_hhkb_unimap/common/action.o
+command_state                                     obj_hhkb_unimap/common/command.o
+debug_action                                      obj_hhkb_unimap/common/action.o
+debug_config                                      obj_hhkb_unimap/common/debug.o
+                                                  obj_hhkb_unimap/common/command.o
+                                                  obj_hhkb_unimap/common/mousekey.o
+                                                  obj_hhkb_unimap/common/action_util.o
+                                                  obj_hhkb_unimap/common/keyboard.o
+                                                  obj_hhkb_unimap/common/host.o
+debug_event                                       obj_hhkb_unimap/common/action.o
+                                                  obj_hhkb_unimap/common/action_tapping.o
+debug_record                                      obj_hhkb_unimap/common/action.o
+                                                  obj_hhkb_unimap/common/action_tapping.o
+default_layer_and                                 obj_hhkb_unimap/common/action_layer.o
+                                                  obj_hhkb_unimap/common/action.o
+default_layer_debug                               obj_hhkb_unimap/common/action_layer.o
+                                                  obj_hhkb_unimap/common/action.o
+default_layer_or                                  obj_hhkb_unimap/common/action_layer.o
+                                                  obj_hhkb_unimap/common/action.o
+default_layer_set                                 obj_hhkb_unimap/common/action_layer.o
+                                                  obj_hhkb_unimap/common/command.o
+default_layer_state                               obj_hhkb_unimap/common/action_layer.o
+default_layer_xor                                 obj_hhkb_unimap/common/action_layer.o
+                                                  obj_hhkb_unimap/common/action.o
+del_key                                           obj_hhkb_unimap/common/action_util.o
+                                                  obj_hhkb_unimap/common/action.o
+del_mods                                          obj_hhkb_unimap/common/action_util.o
+                                                  obj_hhkb_unimap/common/action.o
+del_weak_mods                                     obj_hhkb_unimap/common/action_util.o
+                                                  obj_hhkb_unimap/common/action_macro.o
+                                                  obj_hhkb_unimap/common/action.o
+exit                                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+get_first_key                                     obj_hhkb_unimap/common/action_util.o
+get_mods                                          obj_hhkb_unimap/common/action_util.o
+                                                  obj_hhkb_unimap/common/action_macro.o
+                                                  obj_hhkb_unimap/common/action.o
+get_weak_mods                                     obj_hhkb_unimap/common/action_util.o
+has_anykey                                        obj_hhkb_unimap/common/action_util.o
+has_anymod                                        obj_hhkb_unimap/common/action_util.o
+hook_bootmagic                                    obj_hhkb_unimap/common/hook.o
+hook_default_layer_change                         obj_hhkb_unimap/common/hook.o
+                                                  obj_hhkb_unimap/common/action_layer.o
+hook_early_init                                   obj_hhkb_unimap/protocol/lufa/lufa.o
+hook_keyboard_leds_change                         obj_hhkb_unimap/common/hook.o
+                                                  obj_hhkb_unimap/common/keyboard.o
+hook_keyboard_loop                                obj_hhkb_unimap/common/hook.o
+                                                  obj_hhkb_unimap/common/keyboard.o
+hook_late_init                                    obj_hhkb_unimap/protocol/lufa/lufa.o
+hook_layer_change                                 obj_hhkb_unimap/common/hook.o
+                                                  obj_hhkb_unimap/common/action_layer.o
+hook_matrix_change                                obj_hhkb_unimap/common/hook.o
+                                                  obj_hhkb_unimap/common/action.o
+                                                  obj_hhkb_unimap/common/keyboard.o
+hook_usb_suspend_entry                            obj_hhkb_unimap/protocol/lufa/lufa.o
+hook_usb_suspend_loop                             obj_hhkb_unimap/protocol/lufa/lufa.o
+hook_usb_wakeup                                   obj_hhkb_unimap/protocol/lufa/lufa.o
+host_consumer_send                                obj_hhkb_unimap/common/host.o
+                                                  obj_hhkb_unimap/common/action.o
+host_get_driver                                   obj_hhkb_unimap/common/host.o
+host_keyboard_leds                                obj_hhkb_unimap/common/host.o
+                                                  obj_hhkb_unimap/common/command.o
+                                                  obj_hhkb_unimap/common/keyboard.o
+host_keyboard_send                                obj_hhkb_unimap/common/host.o
+                                                  obj_hhkb_unimap/common/action_util.o
+host_last_consumer_report                         obj_hhkb_unimap/common/host.o
+host_last_system_report                           obj_hhkb_unimap/common/host.o
+host_mouse_send                                   obj_hhkb_unimap/common/host.o
+                                                  obj_hhkb_unimap/common/mousekey.o
+host_set_driver                                   obj_hhkb_unimap/common/host.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+host_system_send                                  obj_hhkb_unimap/common/host.o
+                                                  obj_hhkb_unimap/common/action.o
+is_tap_key                                        obj_hhkb_unimap/common/action.o
+                                                  obj_hhkb_unimap/common/action_tapping.o
+keyboard_idle                                     obj_hhkb_unimap/protocol/lufa/lufa.o
+                                                  obj_hhkb_unimap/common/command.o
+keyboard_init                                     obj_hhkb_unimap/common/keyboard.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+keyboard_nkro                                     obj_hhkb_unimap/common/host.o
+                                                  obj_hhkb_unimap/common/command.o
+                                                  obj_hhkb_unimap/common/action_util.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+keyboard_protocol                                 obj_hhkb_unimap/protocol/lufa/lufa.o
+                                                  obj_hhkb_unimap/common/command.o
+                                                  obj_hhkb_unimap/common/action_util.o
+keyboard_report                                   obj_hhkb_unimap/common/action_util.o
+                                                  obj_hhkb_unimap/common/command.o
+keyboard_set_leds                                 obj_hhkb_unimap/common/keyboard.o
+                                                  obj_hhkb_unimap/common/hook.o
+keyboard_setup                                    obj_hhkb_unimap/common/keyboard.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+keyboard_task                                     obj_hhkb_unimap/common/keyboard.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+layer_and                                         obj_hhkb_unimap/common/action_layer.o
+                                                  obj_hhkb_unimap/common/action.o
+layer_clear                                       obj_hhkb_unimap/common/action_layer.o
+                                                  obj_hhkb_unimap/common/action.o
+layer_debug                                       obj_hhkb_unimap/common/action_layer.o
+                                                  obj_hhkb_unimap/common/action.o
+layer_invert                                      obj_hhkb_unimap/common/action_layer.o
+                                                  obj_hhkb_unimap/common/action.o
+layer_move                                        obj_hhkb_unimap/common/action_layer.o
+                                                  obj_hhkb_unimap/common/action.o
+layer_off                                         obj_hhkb_unimap/common/action_layer.o
+                                                  obj_hhkb_unimap/common/action.o
+layer_on                                          obj_hhkb_unimap/common/action_layer.o
+                                                  obj_hhkb_unimap/common/action.o
+layer_or                                          obj_hhkb_unimap/common/action_layer.o
+                                                  obj_hhkb_unimap/common/action.o
+layer_state                                       obj_hhkb_unimap/common/action_layer.o
+layer_switch_get_action                           obj_hhkb_unimap/common/action_layer.o
+                                                  obj_hhkb_unimap/common/action_tapping.o
+                                                  obj_hhkb_unimap/common/action.o
+layer_xor                                         obj_hhkb_unimap/common/action_layer.o
+                                                  obj_hhkb_unimap/common/action.o
+led_set                                           obj_hhkb_unimap/led.o
+                                                  obj_hhkb_unimap/common/keyboard.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+lufa_driver                                       obj_hhkb_unimap/protocol/lufa/lufa.o
+main                                              obj_hhkb_unimap/protocol/lufa/lufa.o
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+matrix_clear                                      obj_hhkb_unimap/common/matrix.o
+                                                  obj_hhkb_unimap/common/avr/suspend.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+matrix_cols                                       obj_hhkb_unimap/common/matrix.o
+matrix_get_row                                    obj_hhkb_unimap/matrix.o
+                                                  obj_hhkb_unimap/common/avr/suspend.o
+                                                  obj_hhkb_unimap/common/matrix.o
+                                                  obj_hhkb_unimap/common/keyboard.o
+matrix_init                                       obj_hhkb_unimap/matrix.o
+                                                  obj_hhkb_unimap/common/keyboard.o
+matrix_is_on                                      obj_hhkb_unimap/common/matrix.o
+matrix_power_down                                 obj_hhkb_unimap/matrix.o
+                                                  obj_hhkb_unimap/common/avr/suspend.o
+matrix_power_up                                   obj_hhkb_unimap/matrix.o
+                                                  obj_hhkb_unimap/common/avr/suspend.o
+matrix_print                                      obj_hhkb_unimap/common/matrix.o
+                                                  obj_hhkb_unimap/common/keyboard.o
+matrix_rows                                       obj_hhkb_unimap/common/matrix.o
+matrix_scan                                       obj_hhkb_unimap/matrix.o
+                                                  obj_hhkb_unimap/common/avr/suspend.o
+                                                  obj_hhkb_unimap/common/keyboard.o
+matrix_setup                                      obj_hhkb_unimap/common/matrix.o
+                                                  obj_hhkb_unimap/common/keyboard.o
+mk_delay                                          obj_hhkb_unimap/common/mousekey.o
+                                                  obj_hhkb_unimap/common/command.o
+mk_interval                                       obj_hhkb_unimap/common/mousekey.o
+                                                  obj_hhkb_unimap/common/command.o
+mk_max_speed                                      obj_hhkb_unimap/common/mousekey.o
+                                                  obj_hhkb_unimap/common/command.o
+mk_time_to_max                                    obj_hhkb_unimap/common/mousekey.o
+                                                  obj_hhkb_unimap/common/command.o
+mk_wheel_max_speed                                obj_hhkb_unimap/common/mousekey.o
+                                                  obj_hhkb_unimap/common/command.o
+mk_wheel_time_to_max                              obj_hhkb_unimap/common/mousekey.o
+                                                  obj_hhkb_unimap/common/command.o
+mousekey_clear                                    obj_hhkb_unimap/common/mousekey.o
+                                                  obj_hhkb_unimap/common/action.o
+mousekey_off                                      obj_hhkb_unimap/common/mousekey.o
+                                                  obj_hhkb_unimap/common/action.o
+mousekey_on                                       obj_hhkb_unimap/common/mousekey.o
+                                                  obj_hhkb_unimap/common/action.o
+mousekey_send                                     obj_hhkb_unimap/common/mousekey.o
+                                                  obj_hhkb_unimap/common/action.o
+mousekey_task                                     obj_hhkb_unimap/common/mousekey.o
+                                                  obj_hhkb_unimap/common/keyboard.o
+print_set_sendchar                                obj_hhkb_unimap/common/print.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+process_action                                    obj_hhkb_unimap/common/action.o
+                                                  obj_hhkb_unimap/common/action_tapping.o
+register_code                                     obj_hhkb_unimap/common/action.o
+                                                  obj_hhkb_unimap/common/action_macro.o
+register_mods                                     obj_hhkb_unimap/common/action.o
+reset_key                                         obj_hhkb_unimap/common/avr/bootloader.o
+send_keyboard_report                              obj_hhkb_unimap/common/action_util.o
+                                                  obj_hhkb_unimap/common/action_macro.o
+                                                  obj_hhkb_unimap/common/action.o
+sendchar                                          obj_hhkb_unimap/protocol/lufa/lufa.o
+set_mods                                          obj_hhkb_unimap/common/action_util.o
+                                                  obj_hhkb_unimap/common/action_macro.o
+set_oneshot_mods                                  obj_hhkb_unimap/common/action_util.o
+                                                  obj_hhkb_unimap/common/action.o
+set_weak_mods                                     obj_hhkb_unimap/common/action_util.o
+suspend_idle                                      obj_hhkb_unimap/common/avr/suspend.o
+suspend_power_down                                obj_hhkb_unimap/common/avr/suspend.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+                                                  obj_hhkb_unimap/matrix.o
+suspend_wakeup_condition                          obj_hhkb_unimap/common/avr/suspend.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+suspend_wakeup_init                               obj_hhkb_unimap/common/avr/suspend.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o
+timer_clear                                       obj_hhkb_unimap/common/avr/timer.o
+timer_count                                       obj_hhkb_unimap/common/avr/timer.o
+                                                  obj_hhkb_unimap/common/avr/suspend.o
+timer_elapsed                                     obj_hhkb_unimap/common/avr/timer.o
+                                                  obj_hhkb_unimap/common/mousekey.o
+timer_elapsed32                                   obj_hhkb_unimap/common/avr/timer.o
+                                                  obj_hhkb_unimap/matrix.o
+timer_init                                        obj_hhkb_unimap/common/avr/timer.o
+                                                  obj_hhkb_unimap/common/keyboard.o
+timer_read                                        obj_hhkb_unimap/common/avr/timer.o
+                                                  obj_hhkb_unimap/common/mousekey.o
+                                                  obj_hhkb_unimap/common/action_util.o
+                                                  obj_hhkb_unimap/common/keyboard.o
+timer_read32                                      obj_hhkb_unimap/common/avr/timer.o
+                                                  obj_hhkb_unimap/common/command.o
+                                                  obj_hhkb_unimap/matrix.o
+unimap_trans                                      obj_hhkb_unimap/unimap_hhkb.o
+                                                  obj_hhkb_unimap/common/unimap.o
+unimap_translate                                  obj_hhkb_unimap/common/unimap.o
+unregister_code                                   obj_hhkb_unimap/common/action.o
+                                                  obj_hhkb_unimap/common/action_macro.o
+unregister_mods                                   obj_hhkb_unimap/common/action.o
+xfunc_out                                         obj_hhkb_unimap/common/avr/xprintf.o
+                                                  obj_hhkb_unimap/common/print.o
+xitoa                                             obj_hhkb_unimap/common/avr/xprintf.o
+xputc                                             obj_hhkb_unimap/common/avr/xprintf.o
+xputs                                             obj_hhkb_unimap/common/avr/xprintf.o
+                                                  obj_hhkb_unimap/common/command.o
+                                                  obj_hhkb_unimap/common/mousekey.o
+                                                  obj_hhkb_unimap/common/matrix.o
+                                                  obj_hhkb_unimap/common/host.o
+                                                  obj_hhkb_unimap/protocol/lufa/lufa.o

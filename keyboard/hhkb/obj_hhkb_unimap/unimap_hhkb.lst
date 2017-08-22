@@ -1,0 +1,355 @@
+   1               		.file	"unimap_hhkb.c"
+   2               	__SP_H__ = 0x3e
+   3               	__SP_L__ = 0x3d
+   4               	__SREG__ = 0x3f
+   5               	__tmp_reg__ = 0
+   6               	__zero_reg__ = 1
+   7               		.text
+   8               	.Ltext0:
+   9               		.cfi_sections	.debug_frame
+  10               	.global	actionmaps
+  11               		.section	.keymap.keymaps,"a",@progbits
+  14               	actionmaps:
+  15 0000 0000      		.word	0
+  16 0002 0000      		.word	0
+  17 0004 0000      		.word	0
+  18 0006 0000      		.word	0
+  19 0008 0400      		.word	4
+  20 000a 0500      		.word	5
+  21 000c 0600      		.word	6
+  22 000e 0700      		.word	7
+  23 0010 0800      		.word	8
+  24 0012 0900      		.word	9
+  25 0014 0A00      		.word	10
+  26 0016 0B00      		.word	11
+  27 0018 0C00      		.word	12
+  28 001a 0D00      		.word	13
+  29 001c 0E00      		.word	14
+  30 001e 0F00      		.word	15
+  31 0020 1000      		.word	16
+  32 0022 1100      		.word	17
+  33 0024 1200      		.word	18
+  34 0026 1300      		.word	19
+  35 0028 1400      		.word	20
+  36 002a 1500      		.word	21
+  37 002c 1600      		.word	22
+  38 002e 1700      		.word	23
+  39 0030 1800      		.word	24
+  40 0032 1900      		.word	25
+  41 0034 1A00      		.word	26
+  42 0036 1B00      		.word	27
+  43 0038 1C00      		.word	28
+  44 003a 1D00      		.word	29
+  45 003c 1E00      		.word	30
+  46 003e 1F00      		.word	31
+  47 0040 2000      		.word	32
+  48 0042 2100      		.word	33
+  49 0044 2200      		.word	34
+  50 0046 2300      		.word	35
+  51 0048 2400      		.word	36
+  52 004a 2500      		.word	37
+  53 004c 2600      		.word	38
+  54 004e 2700      		.word	39
+  55 0050 2800      		.word	40
+  56 0052 0000      		.word	0
+  57 0054 3500      		.word	53
+  58 0056 2B00      		.word	43
+  59 0058 2C00      		.word	44
+  60 005a 2D00      		.word	45
+  61 005c 2E00      		.word	46
+  62 005e 2F00      		.word	47
+  63 0060 3000      		.word	48
+  64 0062 2A00      		.word	42
+  65 0064 0000      		.word	0
+  66 0066 3300      		.word	51
+  67 0068 3400      		.word	52
+  68 006a 2900      		.word	41
+  69 006c 3600      		.word	54
+  70 006e 3700      		.word	55
+  71 0070 3800      		.word	56
+  72 0072 E000      		.word	224
+  73 0074 0000      		.word	0
+  74 0076 0000      		.word	0
+  75 0078 0000      		.word	0
+  76 007a 0000      		.word	0
+  77 007c 0000      		.word	0
+  78 007e 0000      		.word	0
+  79 0080 0000      		.word	0
+  80 0082 0000      		.word	0
+  81 0084 0000      		.word	0
+  82 0086 0000      		.word	0
+  83 0088 0000      		.word	0
+  84 008a 0000      		.word	0
+  85 008c 0000      		.word	0
+  86 008e 0000      		.word	0
+  87 0090 0000      		.word	0
+  88 0092 0000      		.word	0
+  89 0094 0000      		.word	0
+  90 0096 0000      		.word	0
+  91 0098 0000      		.word	0
+  92 009a 0000      		.word	0
+  93 009c 0000      		.word	0
+  94 009e 0000      		.word	0
+  95 00a0 0000      		.word	0
+  96 00a2 0000      		.word	0
+  97 00a4 0000      		.word	0
+  98 00a6 0000      		.word	0
+  99 00a8 0000      		.word	0
+ 100 00aa 0000      		.word	0
+ 101 00ac 0000      		.word	0
+ 102 00ae 0000      		.word	0
+ 103 00b0 0000      		.word	0
+ 104 00b2 0000      		.word	0
+ 105 00b4 0000      		.word	0
+ 106 00b6 0000      		.word	0
+ 107 00b8 0000      		.word	0
+ 108 00ba 0000      		.word	0
+ 109 00bc 0000      		.word	0
+ 110 00be 0000      		.word	0
+ 111 00c0 0000      		.word	0
+ 112 00c2 0000      		.word	0
+ 113 00c4 0000      		.word	0
+ 114 00c6 0000      		.word	0
+ 115 00c8 0000      		.word	0
+ 116 00ca 0000      		.word	0
+ 117 00cc 0000      		.word	0
+ 118 00ce 0000      		.word	0
+ 119 00d0 0000      		.word	0
+ 120 00d2 0000      		.word	0
+ 121 00d4 0000      		.word	0
+ 122 00d6 0000      		.word	0
+ 123 00d8 0000      		.word	0
+ 124 00da 0000      		.word	0
+ 125 00dc 0000      		.word	0
+ 126 00de 0000      		.word	0
+ 127 00e0 0000      		.word	0
+ 128 00e2 0000      		.word	0
+ 129 00e4 0000      		.word	0
+ 130 00e6 0000      		.word	0
+ 131 00e8 3100      		.word	49
+ 132 00ea 0000      		.word	0
+ 133 00ec 0000      		.word	0
+ 134 00ee 0000      		.word	0
+ 135 00f0 0000      		.word	0
+ 136 00f2 E100      		.word	225
+ 137 00f4 E200      		.word	226
+ 138 00f6 E300      		.word	227
+ 139 00f8 F1A1      		.word	-24079
+ 140 00fa E500      		.word	229
+ 141 00fc E600      		.word	230
+ 142 00fe E700      		.word	231
+ 143 0100 0000      		.word	0
+ 144 0102 0000      		.word	0
+ 145 0104 0000      		.word	0
+ 146 0106 0000      		.word	0
+ 147 0108 EA44      		.word	17642
+ 148 010a 0100      		.word	1
+ 149 010c 0100      		.word	1
+ 150 010e E244      		.word	17634
+ 151 0110 0100      		.word	1
+ 152 0112 0100      		.word	1
+ 153 0114 0100      		.word	1
+ 154 0116 5500      		.word	85
+ 155 0118 4600      		.word	70
+ 156 011a 5400      		.word	84
+ 157 011c 4A00      		.word	74
+ 158 011e 4B00      		.word	75
+ 159 0120 5600      		.word	86
+ 160 0122 5700      		.word	87
+ 161 0124 4700      		.word	71
+ 162 0126 4800      		.word	72
+ 163 0128 0100      		.word	1
+ 164 012a 0100      		.word	1
+ 165 012c E944      		.word	17641
+ 166 012e 0100      		.word	1
+ 167 0130 0100      		.word	1
+ 168 0132 0100      		.word	1
+ 169 0134 0100      		.word	1
+ 170 0136 0100      		.word	1
+ 171 0138 0100      		.word	1
+ 172 013a 0100      		.word	1
+ 173 013c 3A00      		.word	58
+ 174 013e 3B00      		.word	59
+ 175 0140 3C00      		.word	60
+ 176 0142 3D00      		.word	61
+ 177 0144 3E00      		.word	62
+ 178 0146 3F00      		.word	63
+ 179 0148 4000      		.word	64
+ 180 014a 4100      		.word	65
+ 181 014c 4200      		.word	66
+ 182 014e 4300      		.word	67
+ 183 0150 5800      		.word	88
+ 184 0152 0000      		.word	0
+ 185 0154 4C00      		.word	76
+ 186 0156 3900      		.word	57
+ 187 0158 0100      		.word	1
+ 188 015a 4400      		.word	68
+ 189 015c 4500      		.word	69
+ 190 015e 5200      		.word	82
+ 191 0160 0100      		.word	1
+ 192 0162 0100      		.word	1
+ 193 0164 0000      		.word	0
+ 194 0166 5000      		.word	80
+ 195 0168 4F00      		.word	79
+ 196 016a 8140      		.word	16513
+ 197 016c 4D00      		.word	77
+ 198 016e 4E00      		.word	78
+ 199 0170 5100      		.word	81
+ 200 0172 0100      		.word	1
+ 201 0174 0000      		.word	0
+ 202 0176 0000      		.word	0
+ 203 0178 0000      		.word	0
+ 204 017a 0000      		.word	0
+ 205 017c 0000      		.word	0
+ 206 017e 0000      		.word	0
+ 207 0180 0000      		.word	0
+ 208 0182 0000      		.word	0
+ 209 0184 0000      		.word	0
+ 210 0186 0000      		.word	0
+ 211 0188 0000      		.word	0
+ 212 018a 0000      		.word	0
+ 213 018c 0000      		.word	0
+ 214 018e 0000      		.word	0
+ 215 0190 0000      		.word	0
+ 216 0192 0000      		.word	0
+ 217 0194 0000      		.word	0
+ 218 0196 0000      		.word	0
+ 219 0198 0000      		.word	0
+ 220 019a 0000      		.word	0
+ 221 019c 0000      		.word	0
+ 222 019e 0000      		.word	0
+ 223 01a0 0000      		.word	0
+ 224 01a2 0000      		.word	0
+ 225 01a4 0000      		.word	0
+ 226 01a6 0000      		.word	0
+ 227 01a8 0000      		.word	0
+ 228 01aa 0000      		.word	0
+ 229 01ac 0000      		.word	0
+ 230 01ae 0000      		.word	0
+ 231 01b0 0000      		.word	0
+ 232 01b2 0000      		.word	0
+ 233 01b4 0000      		.word	0
+ 234 01b6 0000      		.word	0
+ 235 01b8 0000      		.word	0
+ 236 01ba 0000      		.word	0
+ 237 01bc 0000      		.word	0
+ 238 01be 0000      		.word	0
+ 239 01c0 0000      		.word	0
+ 240 01c2 0000      		.word	0
+ 241 01c4 0000      		.word	0
+ 242 01c6 0000      		.word	0
+ 243 01c8 0000      		.word	0
+ 244 01ca 0000      		.word	0
+ 245 01cc 0000      		.word	0
+ 246 01ce 0000      		.word	0
+ 247 01d0 0000      		.word	0
+ 248 01d2 0000      		.word	0
+ 249 01d4 0000      		.word	0
+ 250 01d6 0000      		.word	0
+ 251 01d8 0000      		.word	0
+ 252 01da 0000      		.word	0
+ 253 01dc 0000      		.word	0
+ 254 01de 0000      		.word	0
+ 255 01e0 0000      		.word	0
+ 256 01e2 0000      		.word	0
+ 257 01e4 0000      		.word	0
+ 258 01e6 0000      		.word	0
+ 259 01e8 4900      		.word	73
+ 260 01ea 0000      		.word	0
+ 261 01ec 0000      		.word	0
+ 262 01ee 0000      		.word	0
+ 263 01f0 0000      		.word	0
+ 264 01f2 0100      		.word	1
+ 265 01f4 0100      		.word	1
+ 266 01f6 0100      		.word	1
+ 267 01f8 0100      		.word	1
+ 268 01fa 0100      		.word	1
+ 269 01fc 0100      		.word	1
+ 270 01fe 0100      		.word	1
+ 271               	.global	unimap_trans
+ 272               		.section	.progmem.data.unimap_trans,"a",@progbits
+ 275               	unimap_trans:
+ 276 0000 1F        		.byte	31
+ 277 0001 14        		.byte	20
+ 278 0002 1A        		.byte	26
+ 279 0003 16        		.byte	22
+ 280 0004 04        		.byte	4
+ 281 0005 1D        		.byte	29
+ 282 0006 1B        		.byte	27
+ 283 0007 06        		.byte	6
+ 284 0008 20        		.byte	32
+ 285 0009 21        		.byte	33
+ 286 000a 15        		.byte	21
+ 287 000b 08        		.byte	8
+ 288 000c 07        		.byte	7
+ 289 000d 09        		.byte	9
+ 290 000e 19        		.byte	25
+ 291 000f 05        		.byte	5
+ 292 0010 22        		.byte	34
+ 293 0011 23        		.byte	35
+ 294 0012 1C        		.byte	28
+ 295 0013 17        		.byte	23
+ 296 0014 0A        		.byte	10
+ 297 0015 0B        		.byte	11
+ 298 0016 11        		.byte	17
+ 299 0017 80        		.byte	-128
+ 300 0018 1E        		.byte	30
+ 301 0019 35        		.byte	53
+ 302 001a 2B        		.byte	43
+ 303 001b 39        		.byte	57
+ 304 001c 79        		.byte	121
+ 305 001d 7A        		.byte	122
+ 306 001e 7B        		.byte	123
+ 307 001f 2C        		.byte	44
+ 308 0020 24        		.byte	36
+ 309 0021 25        		.byte	37
+ 310 0022 18        		.byte	24
+ 311 0023 0C        		.byte	12
+ 312 0024 0E        		.byte	14
+ 313 0025 0D        		.byte	13
+ 314 0026 10        		.byte	16
+ 315 0027 80        		.byte	-128
+ 316 0028 74        		.byte	116
+ 317 0029 2A        		.byte	42
+ 318 002a 31        		.byte	49
+ 319 002b 28        		.byte	40
+ 320 002c 7C        		.byte	124
+ 321 002d 7D        		.byte	125
+ 322 002e 7E        		.byte	126
+ 323 002f 7F        		.byte	127
+ 324 0030 26        		.byte	38
+ 325 0031 27        		.byte	39
+ 326 0032 12        		.byte	18
+ 327 0033 13        		.byte	19
+ 328 0034 33        		.byte	51
+ 329 0035 0F        		.byte	15
+ 330 0036 36        		.byte	54
+ 331 0037 80        		.byte	-128
+ 332 0038 2D        		.byte	45
+ 333 0039 2E        		.byte	46
+ 334 003a 30        		.byte	48
+ 335 003b 2F        		.byte	47
+ 336 003c 34        		.byte	52
+ 337 003d 38        		.byte	56
+ 338 003e 37        		.byte	55
+ 339 003f 80        		.byte	-128
+ 340               		.text
+ 341               	.Letext0:
+ 342               		.file 1 "/usr/local/CrossPack-AVR-20131216/avr/include/stdint.h"
+ 343               		.file 2 "../../tmk_core/common/keycode.h"
+ 344               		.file 3 "../../tmk_core/common/action_code.h"
+ 345               		.file 4 "../../tmk_core/common/unimap.h"
+ 346               		.file 5 "../../tmk_core/protocol/lufa/LUFA-git/LUFA/Drivers/USB/Core/USBTask.h"
+ 347               		.file 6 "unimap_trans.h"
+ 348               		.file 7 "unimap_hhkb.c"
+DEFINED SYMBOLS
+                            *ABS*:00000000 unimap_hhkb.c
+/var/folders/ww/zxgm8pk10vs7h41wm6z_0fjr0000gn/T//ccejuqNS.s:2      *ABS*:0000003e __SP_H__
+/var/folders/ww/zxgm8pk10vs7h41wm6z_0fjr0000gn/T//ccejuqNS.s:3      *ABS*:0000003d __SP_L__
+/var/folders/ww/zxgm8pk10vs7h41wm6z_0fjr0000gn/T//ccejuqNS.s:4      *ABS*:0000003f __SREG__
+/var/folders/ww/zxgm8pk10vs7h41wm6z_0fjr0000gn/T//ccejuqNS.s:5      *ABS*:00000000 __tmp_reg__
+/var/folders/ww/zxgm8pk10vs7h41wm6z_0fjr0000gn/T//ccejuqNS.s:6      *ABS*:00000001 __zero_reg__
+/var/folders/ww/zxgm8pk10vs7h41wm6z_0fjr0000gn/T//ccejuqNS.s:14     .keymap.keymaps:00000000 actionmaps
+/var/folders/ww/zxgm8pk10vs7h41wm6z_0fjr0000gn/T//ccejuqNS.s:275    .progmem.data.unimap_trans:00000000 unimap_trans
+
+NO UNDEFINED SYMBOLS
