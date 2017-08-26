@@ -30,18 +30,18 @@
  * For TMK HHKB alt controller(ATMega32U4)
  *
  *                              pro micro
- * row:     PB0-2               x:0 o:1,2
+ * row:     PB0-2               x:0 o:1,2  ---> PF 5-7
  * col:     PB3-5,6             o
  * key:     PD7(pull-uped)      o
- * prev:    PB7                 x
+ * prev:    PB7                 x   ---> PE6
  * power:   PD4(L:off/H:on)     o
  * row-ext: PC6,7 for HHKB JP(active low)  ignore only jp used
  */
 static inline void KEY_ENABLE(void) { (PORTB &= ~(1<<6)); }
 static inline void KEY_UNABLE(void) { (PORTB |=  (1<<6)); }
 static inline bool KEY_STATE(void) { return (PIND & (1<<7)); }
-static inline void KEY_PREV_ON(void) { (PORTB |=  (1<<7)); }
-static inline void KEY_PREV_OFF(void) { (PORTB &= ~(1<<7)); }
+static inline void KEY_PREV_ON(void) { (PORTE |=  (1<<6)); }
+static inline void KEY_PREV_OFF(void) { (PORTE &= ~(1<<6)); }
 #ifdef HHKB_POWER_SAVING
 static inline void KEY_POWER_ON(void) {
     DDRB = 0xFF; PORTB = 0x40;          // change pins output
@@ -68,6 +68,13 @@ static inline void KEY_INIT(void)
     /* key: input with pull-up */
     DDRD  &= ~0x80;
     PORTD |=  0x80;
+
+    /* row */
+    DDRF |= 0xE0;
+    PROTF |= 0xE0;
+    /* prev */
+    DDRE  |= 1<<6;
+    PORTE |= 1<<6;
 #ifdef HHKB_JP
     /* row extention for HHKB JP */
     DDRC  |= (1<<6|1<<7);
