@@ -71,7 +71,7 @@ static inline void KEY_INIT(void)
 
     /* row */
     DDRF |= 0xE0;
-    PROTF |= 0xE0;
+    PORTF |= 0xE0;
     /* prev */
     DDRE  |= 1<<6;
     PORTE |= 1<<6;
@@ -91,7 +91,8 @@ static inline void KEY_INIT(void)
 }
 static inline void KEY_SELECT(uint8_t ROW, uint8_t COL)
 {
-    PORTB = (PORTB & 0xC0) | (((COL) & 0x07)<<3) | ((ROW) & 0x07);
+    PORTB = (PORTB & 0xC0) | (((COL) & 0x07)<<3);
+    PORTF = ((ROW) & 0x07) << 5;
 #ifdef HHKB_JP
     if ((ROW) & 0x08) PORTC = (PORTC & ~(1<<6|1<<7)) | (1<<6);
     else              PORTC = (PORTC & ~(1<<6|1<<7)) | (1<<7);
