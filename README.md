@@ -5,13 +5,13 @@ Sparkfun Pro Micro (Arduino leonardo) + TMK firmware + HHKB
 
 ### Features
 
-- Use Arduino [bootloader](https://github.com/sparkfun/SF32u4_boards/blob/master/sparkfun/avr/bootloaders/caterina/Caterina.c)
+- Download with [Arduino bootloader](https://github.com/sparkfun/SF32u4_boards/blob/master/sparkfun/avr/bootloaders/caterina/Caterina.c)
 - Use [TMK keyboard library](https://github.com/tmk/tmk_core)
 
 ### Requirement
 
 - install make
-- Install Arduino
+- [Install Arduino](http://arduino.cc)
 - Add avr-gcc to PATH `/Applications/Arduino.app/Contents/Java/hardware/tools/avr/bin/`
 - clone git submodule
 
