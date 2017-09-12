@@ -1,3 +1,4 @@
+#include <avr/wdt.h>
 /*
  * HHKB Layout
  */
@@ -46,9 +47,18 @@ const uint8_t keymaps[][MATRIX_ROWS][MATRIX_COLS] PROGMEM = {
            CAPS,BTN1,MS_U,BTN2,WH_L,WH_U,WH_R,TRNS,PSCR,SLCK,PAUS, UP, TRNS, BSPC,      \
            BTN3,MS_L,MS_D,MS_R,TRNS,WH_D,PAST,PSLS,HOME,PGUP,LEFT,RGHT,PENT,            \
            TRNS,VOLD,VOLU,MUTE,TRNS,TRNS,PPLS,PMNS,END, PGDN,DOWN,TRNS,TRNS,            \
-                TRNS,TRNS,          TRNS,               TRNS,TRNS),
+                TRNS,TRNS,          FN3,               FN1,FN2),
 };
 
+/* id for user defined functions */
+enum function_id {
+    JUMP_BOOTLOADER,
+};
+
+enum macro_id {
+    CROP,
+    CROP_WINDOW,
+};
 
 
 /*
@@ -92,5 +102,61 @@ const action_t fn_actions[] __attribute__ ((section (".keymap.fn_actions"))) = {
 #else
 const action_t fn_actions[] PROGMEM = {
     [0]  = ACTION_LAYER_MOMENTARY(1),
+    [1] = ACTION_MACRO(CROP), // crop
+    [2] = ACTION_MACRO(CROP_WINDOW), // crop win
+    [3] = ACTION_FUNCTION_TAP(JUMP_BOOTLOADER), // jump bootloader
+    
 };
 #endif
+
+
+/*
+ * Macro definition
+ */
+const macro_t *action_get_macro(keyrecord_t *record, uint8_t id, uint8_t opt)
+{
+    switch (id) {
+        case CROP:
+            return (record->event.pressed ?
+                // LGUI, LSFT, LCTL, 4
+                    MACRO(D(LGUI), D(LSFT), D(LCTL), D(4), END ) :
+                    MACRO(U(LGUI), U(LSFT), U(LCTL), U(4), END ));
+        case CROP_WINDOW:
+            return (record->event.pressed ?
+                // LGUI, LSFT, LCTL, 4
+                    MACRO(D(LGUI), D(LSFT), D(LCTL), D(4), END ) :
+                    MACRO(U(LGUI), U(LSFT), U(LCTL), U(4), T(SPC), END ));
+        
+    }
+    return MACRO_NONE;
+}
+void promicro_bootloader_jmp(bool program) {
+    uint16_t *const bootKeyPtr = (uint16_t *)0x0800;
+
+    // Value used by Caterina bootloader use to determine whether to run the
+    // sketch or the bootloader programmer.
+    uint16_t bootKey = program ? 0x7777 : 0;
+
+    *bootKeyPtr = bootKey;
+
+    // setup watchdog timeout
+    wdt_enable(WDTO_60MS);
+
+    while(1) {} // wait for watchdog timer to trigger
+}
+/*
+ * user defined action function
+ */
+void action_function(keyrecord_t *record, uint8_t id, uint8_t opt)
+{
+    if (record->event.pressed) dprint("P"); else dprint("R");
+    dprintf("%d", record->tap.count);
+    if (record->tap.interrupted) dprint("i");
+    dprint("\n");
+
+    switch (id) {
+        case JUMP_BOOTLOADER:
+            promicro_bootloader_jmp(true);
+            break;
+    }
+}
